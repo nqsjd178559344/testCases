@@ -1,4 +1,4 @@
-var getAmount = require('./getDigitRoundNumber');
+var getAmount = require('./index');
 var expect = require('chai').expect;
 
 describe('四舍五入是否正确', function () {
