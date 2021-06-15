@@ -1,4 +1,4 @@
-var getAmount = require('./index');
+var getAmount = require('./getAmount');
 var expect = require('chai').expect;
 
 describe('向下取整是否正确', function () {
