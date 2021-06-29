@@ -79,6 +79,10 @@ describe('getDigitCeilNumberByString_向上取整是否正确', function () {
     expect(getDigitCeilNumberByString(4.66666, 0)).to.be.equal(5)
   })
 
+  it('14360,0 = 14360', function () {
+    expect(getDigitCeilNumberByString(14360, 0)).to.be.equal(14360)
+  })
+
   // ? 类型: digit = decimal
 
   it('4.6,1 = 4.6', function () {
@@ -97,7 +101,7 @@ describe('getDigitCeilNumberByString_向上取整是否正确', function () {
     expect(getDigitCeilNumberByString(4.23, 2)).to.be.equal(4.23)
   })
 
-  // ? 类型: digit < decimal [位数小于小数位数]
+  // ? 类型: digit > decimal [位数小于小数位数]
 
   it('4.6,2 = 4.6', function () {
     expect(getDigitCeilNumberByString(4.6, 2)).to.be.equal(4.6)
@@ -111,7 +115,7 @@ describe('getDigitCeilNumberByString_向上取整是否正确', function () {
     expect(getDigitCeilNumberByString(2321.32133, 7)).to.be.equal(2321.32133)
   })
 
-  // ? 类型: digit > decimal [位数大于小数位数]
+  // ? 类型: digit < decimal [位数大于小数位数]
 
   it('0.33,1 = 0.4', function () {
     expect(getDigitCeilNumberByString(0.33, 1)).to.be.equal(0.4)

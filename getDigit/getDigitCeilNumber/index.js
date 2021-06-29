@@ -8,21 +8,32 @@ const getDigitCeilNumber = (num, digit) => {
 }
 
 const getDigitCeilNumberByString = (num, digit) => {
-    const [integer, decimal = '0'] = (num + '').split('.')
-    let initUnitRate
-    if(!num && !digit) return 0
-    if (!integer) { // 无整数位,仅小数
-        initUnitRate = 1
-    } else if (!digit) { // 无小数位,仅整数
-        initUnitRate = Number(integer) + 1
-    } else {
-        let dec = Number(decimal.slice(0, digit))
-        let decimalLen = decimal.toString().length
-        if (decimalLen > digit) {
-            dec = dec + 1
+    if (!num) return 0
+    const [integer, decimal] = (num + '').split('.')
+    let decimalLen = decimal ? decimal.length : 0
+    let initUnitRate = num
+    /**
+     * *变化的情况
+     *  ? 1. digit = 0
+     * A: digit = 0,integer = 0, decimal !== 0 : => 1
+     * B: digit = 0,integer !== 0, decimal = 0 : => num
+     * C: digit = 0,integer !== 0, decimal !== 0 : => num + 1
+     * *digit < decimalLen
+     * C: integer = 0, decimal !== 0 : => dec + 1
+     * D: integer !== 0, decimal !== 0 : => dec + 1
+     */
+    if (!digit) {
+        if (decimal) {
+            initUnitRate = Number(integer) + 1
         }
-        initUnitRate = integer + '.' + dec
+    } else if (digit < decimalLen) {
+        let dec = Number(decimal.slice(0, digit))
+        if (decimal) {
+            initUnitRate = integer + '.' + (dec + 1)
+        }
     }
+
     if (!isNaN(initUnitRate)) return Number(initUnitRate)
 }
+
 module.exports = { getDigitCeilNumber, getDigitCeilNumberByString }
