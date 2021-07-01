@@ -1,0 +1,4415 @@
+{
+    "message": null,
+    "result": {},
+    "prefix": "cetus",
+    "success": true,
+    "code": 1,
+    "msg": "成功!",
+    "data": {
+        "filterList": [
+            {
+                "id": 1,
+                "desc": "一级分类",
+                "code": "cat1_id",
+                "values": [
+                    {
+                        "id": 13720,
+                        "name": "药房经营",
+                        "firstChar": null,
+                        "checked": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "desc": "店铺",
+                "code": "shop_id",
+                "values": [
+                    {
+                        "id": 909911,
+                        "name": "黑龙江省百年阜康医药有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 905983,
+                        "name": "洛阳明康药业有限公司",
+                        "firstChar": "l",
+                        "checked": false
+                    },
+                    {
+                        "id": 834640,
+                        "name": "合肥曼迪新药业有限责任公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 10129770,
+                        "name": "广东丰鑫药业有限公司",
+                        "firstChar": "g",
+                        "checked": false
+                    },
+                    {
+                        "id": 10109415,
+                        "name": "四川时代仁通医药有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 949417,
+                        "name": "必康百川濮阳分公司",
+                        "firstChar": "b",
+                        "checked": false
+                    },
+                    {
+                        "id": 801296,
+                        "name": "天一医药旗舰店",
+                        "firstChar": "t",
+                        "checked": false
+                    },
+                    {
+                        "id": 10075287,
+                        "name": "山西碧锦纳川医药有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 952244,
+                        "name": "山东瑞辉药业有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 10214445,
+                        "name": "广西东龙世纪医药有限公司",
+                        "firstChar": "g",
+                        "checked": false
+                    },
+                    {
+                        "id": 10113226,
+                        "name": "深圳市永祥药房连锁有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 929776,
+                        "name": "山东诺吉雅力医药有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 10110488,
+                        "name": "广东振群药业有限公司",
+                        "firstChar": "g",
+                        "checked": false
+                    },
+                    {
+                        "id": 10183091,
+                        "name": "陕西医药控股集团兴庆医药有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 670636,
+                        "name": "河北康恒医药有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 10112040,
+                        "name": "河南德尔康药业有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 10140477,
+                        "name": "河南佐今明医药有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 10112999,
+                        "name": "山西国邦药业有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 963270,
+                        "name": "长春市世纪天翼医药有限公司",
+                        "firstChar": "c",
+                        "checked": false
+                    },
+                    {
+                        "id": 10395712,
+                        "name": "山西鹤福药业有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 10210733,
+                        "name": "鞍山市天鸿医药有限公司",
+                        "firstChar": "a",
+                        "checked": false
+                    },
+                    {
+                        "id": 10145986,
+                        "name": "肇庆市新辉药业有限公司",
+                        "firstChar": "z",
+                        "checked": false
+                    },
+                    {
+                        "id": 831036,
+                        "name": "中诚医药邯郸有限公司",
+                        "firstChar": "z",
+                        "checked": false
+                    },
+                    {
+                        "id": 10089883,
+                        "name": "河南恩济药业有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 10130758,
+                        "name": "滨州森林药业有限公司",
+                        "firstChar": "b",
+                        "checked": false
+                    },
+                    {
+                        "id": 10856535,
+                        "name": "南阳市济康医药有限公司",
+                        "firstChar": "n",
+                        "checked": false
+                    },
+                    {
+                        "id": 10112437,
+                        "name": "禹州市医药公司",
+                        "firstChar": "y",
+                        "checked": false
+                    },
+                    {
+                        "id": 823039,
+                        "name": "四川本草堂药业有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 10090374,
+                        "name": "山西振东医药有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 10143820,
+                        "name": "广东顺安药业有限公司",
+                        "firstChar": "g",
+                        "checked": false
+                    },
+                    {
+                        "id": 785136,
+                        "name": "山东省德州泰康药业有限公司经营部",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 10034138,
+                        "name": "辽宁北药商贸股份有限公司",
+                        "firstChar": "l",
+                        "checked": false
+                    },
+                    {
+                        "id": 729503,
+                        "name": "必康润祥医药河北有限公司",
+                        "firstChar": "b",
+                        "checked": false
+                    },
+                    {
+                        "id": 924428,
+                        "name": "必康百川医药（河南）有限公司",
+                        "firstChar": "b",
+                        "checked": false
+                    },
+                    {
+                        "id": 10382673,
+                        "name": "邯郸市肥乡区永民保健品有限公司药品经营部",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 10135662,
+                        "name": "惠州市顺泰药业有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 10097502,
+                        "name": "安徽立方药业有限公司",
+                        "firstChar": "a",
+                        "checked": false
+                    },
+                    {
+                        "id": 670416,
+                        "name": "廊坊市中诚康宇医药有限公司",
+                        "firstChar": "l",
+                        "checked": false
+                    },
+                    {
+                        "id": 10096999,
+                        "name": "佛山市雅信医药有限公司",
+                        "firstChar": "f",
+                        "checked": false
+                    },
+                    {
+                        "id": 10121382,
+                        "name": "东莞市一君医药有限公司",
+                        "firstChar": "d",
+                        "checked": false
+                    },
+                    {
+                        "id": 10670905,
+                        "name": "四川省聚一堂医药有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 10165184,
+                        "name": "海南华健药业有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 10338868,
+                        "name": "河南海华医药物流有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 10146387,
+                        "name": "广东百康药业有限公司",
+                        "firstChar": "g",
+                        "checked": false
+                    },
+                    {
+                        "id": 10356063,
+                        "name": "洛阳世鸿药业有限公司",
+                        "firstChar": "l",
+                        "checked": false
+                    },
+                    {
+                        "id": 10134035,
+                        "name": "湛江通用万邦医药有限公司",
+                        "firstChar": "z",
+                        "checked": false
+                    },
+                    {
+                        "id": 10230284,
+                        "name": "安阳恒峰医药有限公司",
+                        "firstChar": "a",
+                        "checked": false
+                    },
+                    {
+                        "id": 10060278,
+                        "name": "涿州市安和医药有限公司",
+                        "firstChar": "z",
+                        "checked": false
+                    },
+                    {
+                        "id": 10137248,
+                        "name": "山西亚宝医药物流配送有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 699516,
+                        "name": "山东华潍医药有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 10180389,
+                        "name": "广东保灵医药有限公司",
+                        "firstChar": "g",
+                        "checked": false
+                    },
+                    {
+                        "id": 924178,
+                        "name": "黑龙江省国龙医药有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 900719,
+                        "name": "中诚医药邢台有限公司",
+                        "firstChar": "z",
+                        "checked": false
+                    },
+                    {
+                        "id": 10428672,
+                        "name": "河北丽泰医药有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 979400,
+                        "name": "江苏华晓医药物流",
+                        "firstChar": "j",
+                        "checked": false
+                    },
+                    {
+                        "id": 954708,
+                        "name": "重庆鹏英医药有限公司",
+                        "firstChar": "z",
+                        "checked": false
+                    },
+                    {
+                        "id": 969304,
+                        "name": "上药控股温州有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 10172045,
+                        "name": "广东济群药业有限公司",
+                        "firstChar": "g",
+                        "checked": false
+                    },
+                    {
+                        "id": 940039,
+                        "name": "德州九洲康医药有限公司",
+                        "firstChar": "d",
+                        "checked": false
+                    },
+                    {
+                        "id": 10034125,
+                        "name": "福建英特盛健药业有限公司",
+                        "firstChar": "f",
+                        "checked": false
+                    },
+                    {
+                        "id": 10073633,
+                        "name": "河南冠宝云统药业有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 947355,
+                        "name": "重药控股山西康美徕医药有限公司",
+                        "firstChar": "z",
+                        "checked": false
+                    },
+                    {
+                        "id": 905092,
+                        "name": "安徽延生药业有限公司",
+                        "firstChar": "a",
+                        "checked": false
+                    },
+                    {
+                        "id": 956044,
+                        "name": "哈尔滨海业隆医药有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 846148,
+                        "name": "天津市成天易医药有限公司",
+                        "firstChar": "t",
+                        "checked": false
+                    },
+                    {
+                        "id": 10644086,
+                        "name": "甘肃忠瑞健医药有限公司",
+                        "firstChar": "g",
+                        "checked": false
+                    },
+                    {
+                        "id": 10076543,
+                        "name": "常德市大成医药有限公司",
+                        "firstChar": "c",
+                        "checked": false
+                    },
+                    {
+                        "id": 794097,
+                        "name": "天津美伦医药销售有限公司",
+                        "firstChar": "t",
+                        "checked": false
+                    },
+                    {
+                        "id": 919047,
+                        "name": "山东康诺盛世医药有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 11017102,
+                        "name": "四川南充科伦医药贸易有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 10102628,
+                        "name": "南京医药南通健桥有限公司快批中心",
+                        "firstChar": "n",
+                        "checked": false
+                    },
+                    {
+                        "id": 708081,
+                        "name": "京东医药（北京）有限公司",
+                        "firstChar": "j",
+                        "checked": false
+                    },
+                    {
+                        "id": 10360403,
+                        "name": "湖北弘林医药有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 10339350,
+                        "name": "宏洲药业（广东）有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 985141,
+                        "name": "吉林市同振医药有限责任公司",
+                        "firstChar": "j",
+                        "checked": false
+                    },
+                    {
+                        "id": 10342493,
+                        "name": "沈阳森克药业有限公司",
+                        "firstChar": "c",
+                        "checked": false
+                    },
+                    {
+                        "id": 10072217,
+                        "name": "山东益昶源医药有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 779561,
+                        "name": "河北冀北医药物流",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 827966,
+                        "name": "必康润祥医药张家口有限公司",
+                        "firstChar": "b",
+                        "checked": false
+                    },
+                    {
+                        "id": 802567,
+                        "name": "华东医药温州有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 925793,
+                        "name": "京东医药（天津）有限公司",
+                        "firstChar": "j",
+                        "checked": false
+                    },
+                    {
+                        "id": 11019480,
+                        "name": "四川久兴医药器械有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 701398,
+                        "name": "泰安环球医药有限公司",
+                        "firstChar": "t",
+                        "checked": false
+                    },
+                    {
+                        "id": 10034139,
+                        "name": "沈阳铸盈药业有限公司",
+                        "firstChar": "c",
+                        "checked": false
+                    },
+                    {
+                        "id": 10025818,
+                        "name": "安徽勤迈医药有限公司",
+                        "firstChar": "a",
+                        "checked": false
+                    },
+                    {
+                        "id": 10186987,
+                        "name": "驻马店市天中医药有限公司",
+                        "firstChar": "z",
+                        "checked": false
+                    },
+                    {
+                        "id": 10161543,
+                        "name": "广东恒昌源药业有限公司",
+                        "firstChar": "g",
+                        "checked": false
+                    },
+                    {
+                        "id": 10264729,
+                        "name": "保定中诚汇达医药贸易有限公司",
+                        "firstChar": "b",
+                        "checked": false
+                    },
+                    {
+                        "id": 10070034,
+                        "name": "江西广力药业有限公司",
+                        "firstChar": "j",
+                        "checked": false
+                    },
+                    {
+                        "id": 10097166,
+                        "name": "广州福济药业有限公司",
+                        "firstChar": "g",
+                        "checked": false
+                    },
+                    {
+                        "id": 10575553,
+                        "name": "漯河市中西药业有限责任公司",
+                        "firstChar": "t",
+                        "checked": false
+                    },
+                    {
+                        "id": 10364322,
+                        "name": "河南吉祥医药物流有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 10138853,
+                        "name": "广州市济帆药业有限公司",
+                        "firstChar": "g",
+                        "checked": false
+                    },
+                    {
+                        "id": 10130912,
+                        "name": "广东仁正医药股份有限公司",
+                        "firstChar": "g",
+                        "checked": false
+                    },
+                    {
+                        "id": 10342596,
+                        "name": "江苏九州通医药有限公司",
+                        "firstChar": "j",
+                        "checked": false
+                    },
+                    {
+                        "id": 10143821,
+                        "name": "珠海百氏安药业有限公司",
+                        "firstChar": "z",
+                        "checked": false
+                    },
+                    {
+                        "id": 789900,
+                        "name": "天津太平龙隆医药有限公司",
+                        "firstChar": "t",
+                        "checked": false
+                    },
+                    {
+                        "id": 987417,
+                        "name": "山东康力生药业有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 10220253,
+                        "name": "南阳华益医药有限公司",
+                        "firstChar": "n",
+                        "checked": false
+                    },
+                    {
+                        "id": 10364326,
+                        "name": "上海全宇生物科技（驻马店）药业有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "desc": "生产厂家",
+                "code": "factory_id",
+                "values": [
+                    {
+                        "id": 1826973026,
+                        "name": "四川依科制药有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 1632279973,
+                        "name": "太极集团重庆涪陵制药厂有限公司",
+                        "firstChar": "t",
+                        "checked": false
+                    },
+                    {
+                        "id": 445769433,
+                        "name": "四川天府康达药业集团府庆制药有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 732830189,
+                        "name": "辰欣药业股份有限公司",
+                        "firstChar": "c",
+                        "checked": false
+                    },
+                    {
+                        "id": 705866673,
+                        "name": "吉林敖东延边药业股份有限公司",
+                        "firstChar": "j",
+                        "checked": false
+                    },
+                    {
+                        "id": 1257523184,
+                        "name": "广西慧宝源医药科技有限公司",
+                        "firstChar": "g",
+                        "checked": false
+                    },
+                    {
+                        "id": 1291586689,
+                        "name": "杭州华润老桐君药业有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 1135050280,
+                        "name": "四川德元药业集团有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 686286354,
+                        "name": "四川彩虹",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 288300986,
+                        "name": "浙江康恩贝中药有限公司",
+                        "firstChar": "z",
+                        "checked": false
+                    },
+                    {
+                        "id": 1066154325,
+                        "name": "扬子江药业集团有限公司",
+                        "firstChar": "y",
+                        "checked": false
+                    },
+                    {
+                        "id": 419031869,
+                        "name": "神威药业集团有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 2137207300,
+                        "name": "哈药集团三精制药有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 1853174318,
+                        "name": "河南省康华药业股份有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 1741956798,
+                        "name": "四川彩虹制药有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 337078254,
+                        "name": "吉林玉仁制药股份有限公司",
+                        "firstChar": "j",
+                        "checked": false
+                    },
+                    {
+                        "id": 1335505872,
+                        "name": "焦作市民康药业有限公司",
+                        "firstChar": "j",
+                        "checked": false
+                    },
+                    {
+                        "id": 1475968929,
+                        "name": "石家庄格瑞药业有限公司",
+                        "firstChar": "d",
+                        "checked": false
+                    },
+                    {
+                        "id": 2018851004,
+                        "name": "广东恒健制药有限公司",
+                        "firstChar": "g",
+                        "checked": false
+                    },
+                    {
+                        "id": 1105481312,
+                        "name": "辰欣佛都药业（汶上）有限公司",
+                        "firstChar": "c",
+                        "checked": false
+                    },
+                    {
+                        "id": 1350861841,
+                        "name": "山东新华制药股份有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 1676336334,
+                        "name": "广州王老吉药业股份有限公司",
+                        "firstChar": "g",
+                        "checked": false
+                    },
+                    {
+                        "id": 382626510,
+                        "name": "黑龙江珍宝岛药业股份有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 1671930479,
+                        "name": "浙江仙琚制药股份有限公司",
+                        "firstChar": "z",
+                        "checked": false
+                    },
+                    {
+                        "id": 1109929777,
+                        "name": "江苏涟水制药有限公司",
+                        "firstChar": "j",
+                        "checked": false
+                    },
+                    {
+                        "id": 524605116,
+                        "name": "广州市香雪制药股份有限公司",
+                        "firstChar": "g",
+                        "checked": false
+                    },
+                    {
+                        "id": 2026041456,
+                        "name": "广州白云山明兴制药有限公司",
+                        "firstChar": "g",
+                        "checked": false
+                    },
+                    {
+                        "id": 1331489985,
+                        "name": "河南福森药业有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 1017529845,
+                        "name": "济南利民制药有限责任公司",
+                        "firstChar": "j",
+                        "checked": false
+                    },
+                    {
+                        "id": 308866782,
+                        "name": "上海运佳黄浦制药有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 1226592892,
+                        "name": "武汉五景药业有限公司",
+                        "firstChar": "w",
+                        "checked": false
+                    },
+                    {
+                        "id": 857766682,
+                        "name": "济川药业",
+                        "firstChar": "j",
+                        "checked": false
+                    },
+                    {
+                        "id": 2073341684,
+                        "name": "国药集团宜宾制药有限责任公司",
+                        "firstChar": "g",
+                        "checked": false
+                    },
+                    {
+                        "id": 1581857950,
+                        "name": "河南润弘制药股份有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 456248617,
+                        "name": "济川药业集团有限公司",
+                        "firstChar": "j",
+                        "checked": false
+                    },
+                    {
+                        "id": 1847009,
+                        "name": "山西太原药业有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 813895630,
+                        "name": "华润双鹤利民药业（济南）有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 503449014,
+                        "name": "辅仁药业集团有限公司",
+                        "firstChar": "f",
+                        "checked": false
+                    },
+                    {
+                        "id": 346268077,
+                        "name": "新乡市常乐制药有限责任公司",
+                        "firstChar": "x",
+                        "checked": false
+                    },
+                    {
+                        "id": 1191674798,
+                        "name": "湖南汉森制药股份有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 354545533,
+                        "name": "湖北福广制药有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 1473229852,
+                        "name": "海南制药厂有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 1783257540,
+                        "name": "湖北东信药业有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 2054424583,
+                        "name": "梁介福(广东)药业有限公司",
+                        "firstChar": "l",
+                        "checked": false
+                    },
+                    {
+                        "id": 1210134527,
+                        "name": "上海浦津林州制药有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 92006383,
+                        "name": "北京同仁堂科技发展股份有限公司制药厂",
+                        "firstChar": "b",
+                        "checked": false
+                    },
+                    {
+                        "id": 201447761,
+                        "name": "北京诚济制药股份有限公司",
+                        "firstChar": "b",
+                        "checked": false
+                    },
+                    {
+                        "id": 1181323891,
+                        "name": "上海现代哈森（商丘）药业有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 1790165654,
+                        "name": "郑州卓峰制药有限公司",
+                        "firstChar": "z",
+                        "checked": false
+                    },
+                    {
+                        "id": 1029155277,
+                        "name": "通化金马药业集团股份有限公司",
+                        "firstChar": "t",
+                        "checked": false
+                    },
+                    {
+                        "id": 993354578,
+                        "name": "金花企业（集团）股份有限公司西安金花制药厂",
+                        "firstChar": "j",
+                        "checked": false
+                    },
+                    {
+                        "id": 1435413698,
+                        "name": "江西南昌济生制药有限责任公司（原江西南昌济生制药厂",
+                        "firstChar": "j",
+                        "checked": false
+                    },
+                    {
+                        "id": 1232496439,
+                        "name": "吉林敖东延边",
+                        "firstChar": "j",
+                        "checked": false
+                    },
+                    {
+                        "id": 1844654897,
+                        "name": "山西普德药业股份有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 1724438528,
+                        "name": "北京华润高科天然药物有限公司",
+                        "firstChar": "b",
+                        "checked": false
+                    },
+                    {
+                        "id": 787460439,
+                        "name": "云南白药集团文山七花有限责任公司",
+                        "firstChar": "y",
+                        "checked": false
+                    },
+                    {
+                        "id": 1782995807,
+                        "name": "吉林利华制药有限公司",
+                        "firstChar": "j",
+                        "checked": false
+                    },
+                    {
+                        "id": 518096986,
+                        "name": "山东鲁抗医药集团赛特有限责任公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 434626341,
+                        "name": "湖北太子药业有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 545730651,
+                        "name": "江西民济药业有限公司",
+                        "firstChar": "j",
+                        "checked": false
+                    },
+                    {
+                        "id": 1211522771,
+                        "name": "广西玉兰制药有限公司",
+                        "firstChar": "g",
+                        "checked": false
+                    },
+                    {
+                        "id": 1934592243,
+                        "name": "大连百利天华制药有限公司",
+                        "firstChar": "d",
+                        "checked": false
+                    },
+                    {
+                        "id": 289441390,
+                        "name": "四川泰华堂制药有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 425187606,
+                        "name": "山东方明药业集团股份有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 673460557,
+                        "name": "山西太原药业有限公司(基药)",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 182140916,
+                        "name": "湖北科伦药业有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 1516040941,
+                        "name": "远大医药黄石飞云制药有限公司",
+                        "firstChar": "y",
+                        "checked": false
+                    },
+                    {
+                        "id": 1805880454,
+                        "name": "河南利欣制药股份有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 150709507,
+                        "name": "云南白药集团股份有限公司",
+                        "firstChar": "y",
+                        "checked": false
+                    },
+                    {
+                        "id": 123498197,
+                        "name": "福建古田药业有限公司",
+                        "firstChar": "f",
+                        "checked": false
+                    },
+                    {
+                        "id": 1182886796,
+                        "name": "诺和诺德(中国)制药有限公司",
+                        "firstChar": "n",
+                        "checked": false
+                    },
+                    {
+                        "id": 467285364,
+                        "name": "河南省百泉制药有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 980752057,
+                        "name": "浙江新光药业股份有限公司",
+                        "firstChar": "z",
+                        "checked": false
+                    },
+                    {
+                        "id": 1993740907,
+                        "name": "江西诚志永丰药业有限责任公司",
+                        "firstChar": "j",
+                        "checked": false
+                    },
+                    {
+                        "id": 1815213906,
+                        "name": "金花企业(集团)股份有限公司西安金花制药厂",
+                        "firstChar": "j",
+                        "checked": false
+                    },
+                    {
+                        "id": 423828052,
+                        "name": "湖北同德堂药业有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 1532871249,
+                        "name": "山东博士伦福瑞达制药有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 1780989010,
+                        "name": "湖北纽兰药业有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 245693527,
+                        "name": "贵州益佰制药股份有限公司",
+                        "firstChar": "g",
+                        "checked": false
+                    },
+                    {
+                        "id": 223257090,
+                        "name": "天津达仁堂京万红药业有限公司",
+                        "firstChar": "t",
+                        "checked": false
+                    },
+                    {
+                        "id": 1054994224,
+                        "name": "神威药业集团有限公司(原河北神威药业有限公司)",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 460098216,
+                        "name": "河北九正药业有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 156012448,
+                        "name": "荣昌制药(淄博)有限公司",
+                        "firstChar": "r",
+                        "checked": false
+                    },
+                    {
+                        "id": 1381807972,
+                        "name": "真奥金银花药业有限公司",
+                        "firstChar": "z",
+                        "checked": false
+                    },
+                    {
+                        "id": 729139539,
+                        "name": "朗致集团万荣药业有限公司",
+                        "firstChar": "l",
+                        "checked": false
+                    },
+                    {
+                        "id": 1873510003,
+                        "name": "上海现代哈森(商丘)药业有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 1942331662,
+                        "name": "福元药业股份有限公司",
+                        "firstChar": "f",
+                        "checked": false
+                    },
+                    {
+                        "id": 1706853256,
+                        "name": "河南辅仁怀庆堂制药有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 1874300346,
+                        "name": "安徽东盛友邦制药有限公司",
+                        "firstChar": "a",
+                        "checked": false
+                    },
+                    {
+                        "id": 1285691840,
+                        "name": "湖北济安堂药业股份有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 1840882241,
+                        "name": "广东南国药业有限公司",
+                        "firstChar": "g",
+                        "checked": false
+                    },
+                    {
+                        "id": 658716369,
+                        "name": "苏州太湖美药业有限公司",
+                        "firstChar": "s",
+                        "checked": false
+                    },
+                    {
+                        "id": 705768746,
+                        "name": "北京市永康药业有限公司",
+                        "firstChar": "b",
+                        "checked": false
+                    },
+                    {
+                        "id": 1034282024,
+                        "name": "石药银湖制药有限公司",
+                        "firstChar": "d",
+                        "checked": false
+                    },
+                    {
+                        "id": 593473817,
+                        "name": "亚宝药业集团股份有限公司",
+                        "firstChar": "y",
+                        "checked": false
+                    },
+                    {
+                        "id": 178845733,
+                        "name": "恩威(江西)制药有限公司",
+                        "firstChar": "e",
+                        "checked": false
+                    },
+                    {
+                        "id": 1522474999,
+                        "name": "广东新峰药业股份有限公司",
+                        "firstChar": "g",
+                        "checked": false
+                    },
+                    {
+                        "id": 1203952247,
+                        "name": "河南科伦药业有限公司",
+                        "firstChar": "h",
+                        "checked": false
+                    },
+                    {
+                        "id": 1910983840,
+                        "name": "云南植物药业有限公司",
+                        "firstChar": "y",
+                        "checked": false
+                    },
+                    {
+                        "id": 1166650882,
+                        "name": "吉林敖东延边药业",
+                        "firstChar": "j",
+                        "checked": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "desc": "包装规格",
+                "code": "package_spec_id",
+                "values": [
+                    {
+                        "id": 223024004,
+                        "name": "10ml*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 2016155782,
+                        "name": "10ml*5支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 223024066,
+                        "name": "10ml*12支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1498432902,
+                        "name": "10ml*10支*200盒",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 867214618,
+                        "name": "5ml*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 223028291,
+                        "name": "10ml*18瓶",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 352187223,
+                        "name": "2ml*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1793355715,
+                        "name": "2ml:8万U*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 90267547,
+                        "name": "10ml×10/200",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 223024965,
+                        "name": "10ml*20支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1636007267,
+                        "name": "2ml:0.1g*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 515089639,
+                        "name": "10ml*5支*120盒",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1039350311,
+                        "name": "2ml：8万*10支*10盒",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1750523871,
+                        "name": "2ml:0.5g*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1182532468,
+                        "name": "1ml：5mg*10支*10盒",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 690845657,
+                        "name": "20ml:10g*5支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1382246528,
+                        "name": "8ml*10盒",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 2016155813,
+                        "name": "10ml*6支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1491495382,
+                        "name": "0.1%*10ml",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1006468380,
+                        "name": "2ml*0.25g*10支*10盒",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 765844968,
+                        "name": "1ml:2mg*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 546058509,
+                        "name": "1ml：0.1g*10支*10盒",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1345165672,
+                        "name": "5ml:50mg*10瓶",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1506924548,
+                        "name": "1ml:0.1g*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 173735615,
+                        "name": "2ml：0.5g*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1528326987,
+                        "name": "0.2g10X2ml",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1918544638,
+                        "name": "5ml*10支/300",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1963743370,
+                        "name": "10ml*10支塑料瓶",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 202364766,
+                        "name": "2ml：0.6g*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1509374,
+                        "name": "10ml",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 223480595,
+                        "name": "10ml:5mg",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 48367918,
+                        "name": "10ml*10支*42盒",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1535413247,
+                        "name": "2ml10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 59219011,
+                        "name": "2ml：0.1g*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1123935555,
+                        "name": "2ml：60mg*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 390824639,
+                        "name": "2ml:4万U*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 54409858,
+                        "name": "2ml：4万*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 2016155875,
+                        "name": "10ml*8支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 48372661,
+                        "name": "10ml*10支*90盒",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1810810092,
+                        "name": "10mlx10支 盒",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1634455225,
+                        "name": "20ml：10g*5支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 168926462,
+                        "name": "2ml：8万*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1642019786,
+                        "name": "10ml*10支/盒*200盒/件",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 2090553056,
+                        "name": "2ml;0.5g*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1762604715,
+                        "name": "20ml：10g",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 2016155689,
+                        "name": "10ml*2支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 48369778,
+                        "name": "10ml*10支*60盒",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1844137426,
+                        "name": "10ml：1g*5支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 2016158665,
+                        "name": "10ml-5支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1449830552,
+                        "name": "10X2ml",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1779153022,
+                        "name": "2ml:0.6g*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1580886279,
+                        "name": "0.2g*2ml（10支）",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 210733070,
+                        "name": "10ml×10/90",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 476447031,
+                        "name": "10ml:90mg*5支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 866827264,
+                        "name": "2ml*10支*10盒",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 194406760,
+                        "name": "2ml:100mg*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1275212469,
+                        "name": "20ml：10g*50支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 706094728,
+                        "name": "2ml：100mg*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 557945412,
+                        "name": "10ml：400IU*1支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 74280015,
+                        "name": "10ml*10支(无糖)",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 980481251,
+                        "name": "2ml：8万U*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1965834339,
+                        "name": "20ml*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 300040361,
+                        "name": "1ml:10mg*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 138212414,
+                        "name": "6ml/10/400",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 471327256,
+                        "name": "0.025%*10ml",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 2039680281,
+                        "name": "100ml/瓶/10/100",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 87848162,
+                        "name": "2ml：0.2g*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1274904143,
+                        "name": "20ml：10g *5支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 806275310,
+                        "name": "2ml:0.5mg*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 322813746,
+                        "name": "1ml：10mg*10支*10盒",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 40401918,
+                        "name": "2ml*10支/盒/300",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1526956601,
+                        "name": "0.2g10*2ml",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1669081859,
+                        "name": "15ml/10/1000",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 2008114620,
+                        "name": "8万*2ml*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 2070391799,
+                        "name": "10ml*12支(10ml：35mg)",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1488178513,
+                        "name": "5ml*10支*100盒",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1725218567,
+                        "name": "10ml*10支/盒",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 160240593,
+                        "name": "0.1g：2ml*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 116477313,
+                        "name": "2ml：0.3g*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 2016174041,
+                        "name": "10mlX21",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 301364494,
+                        "name": "15ml：10g*6袋",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 2078874486,
+                        "name": "10ml：5支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1364521872,
+                        "name": "0.1%10ml",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1100989938,
+                        "name": "2ml*10支*300盒",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1260759071,
+                        "name": "2ml*10支×300盒",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 999497735,
+                        "name": "1ml：100mg*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 223028043,
+                        "name": "10ml*10瓶",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 987443929,
+                        "name": "10ml×8支/60",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1280872363,
+                        "name": "1ml:5mg*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1540784422,
+                        "name": "10ml*5支/120",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 2077619940,
+                        "name": "1ml：0.1g*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1030115112,
+                        "name": "10ml*8支*100盒",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1626558033,
+                        "name": "10ml*8支*60盒",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 2059734305,
+                        "name": "2ml*10支/200/件",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 449738239,
+                        "name": "200ml:10g",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 613864397,
+                        "name": "10ml：90mg",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 1298523234,
+                        "name": "50mg*2ml*10支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 48367856,
+                        "name": "10ml*10支*40盒",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 724210805,
+                        "name": "10g:20ml*5支",
+                        "firstChar": null,
+                        "checked": false
+                    },
+                    {
+                        "id": 12583090,
+                        "name": "10ml:1g*5支",
+                        "firstChar": null,
+                        "checked": false
+                    }
+                ]
+            }
+        ],
+        "attrList": [
+            {
+                "catId": "4085",
+                "catName": "剂型",
+                "checked": false,
+                "valVOList": [
+                    {
+                        "valId": "80317",
+                        "valName": "酒剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "103388",
+                        "valName": "煎膏剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "82242",
+                        "valName": "滴剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "80319",
+                        "valName": "醑剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "84261",
+                        "valName": "洗剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "115308",
+                        "valName": "灌肠剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "115307",
+                        "valName": "眼膏剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "80315",
+                        "valName": "贴膏剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "89628",
+                        "valName": "乳膏剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "115306",
+                        "valName": "涂剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "79340",
+                        "valName": "软膏剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "84259",
+                        "valName": "植入剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "84262",
+                        "valName": "溶液剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "115304",
+                        "valName": "粉针剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "117385",
+                        "valName": "混悬液",
+                        "checked": false
+                    },
+                    {
+                        "valId": "80313",
+                        "valName": "合剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "80321",
+                        "valName": "酏剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "80307",
+                        "valName": "滴丸剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "80318",
+                        "valName": "酊剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "80320",
+                        "valName": "搽剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "80312",
+                        "valName": "糖浆剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "80304",
+                        "valName": "散剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "80316",
+                        "valName": "凝胶剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "9871",
+                        "valName": "气雾剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "82093",
+                        "valName": "喷雾剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "79342",
+                        "valName": "栓剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "80303",
+                        "valName": "注射剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "79304",
+                        "valName": "丸剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "80302",
+                        "valName": "颗粒剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "80301",
+                        "valName": "胶囊剂",
+                        "checked": false
+                    },
+                    {
+                        "valId": "71697",
+                        "valName": "片剂",
+                        "checked": false
+                    }
+                ]
+            },
+            {
+                "catId": "4237",
+                "catName": "处方类型",
+                "checked": false,
+                "valVOList": [
+                    {
+                        "valId": "80298",
+                        "valName": "处方药",
+                        "checked": false
+                    },
+                    {
+                        "valId": "80297",
+                        "valName": "乙类非处方药",
+                        "checked": false
+                    },
+                    {
+                        "valId": "80296",
+                        "valName": "甲类非处方药",
+                        "checked": false
+                    }
+                ]
+            },
+            {
+                "catId": "4239",
+                "catName": "是否医保",
+                "checked": false,
+                "valVOList": [
+                    {
+                        "valId": "144085",
+                        "valName": "非医保药品",
+                        "checked": false
+                    }
+                ]
+            },
+            {
+                "catId": "4240",
+                "catName": "国家基本药物",
+                "checked": false,
+                "valVOList": [
+                    {
+                        "valId": "144084",
+                        "valName": "非国家基本药品",
+                        "checked": false
+                    },
+                    {
+                        "valId": "144083",
+                        "valName": "国家基本药品",
+                        "checked": false
+                    }
+                ]
+            },
+            {
+                "catId": "4427",
+                "catName": "包装单位",
+                "checked": false,
+                "valVOList": [
+                    {
+                        "valId": "71141",
+                        "valName": "礼盒",
+                        "checked": false
+                    },
+                    {
+                        "valId": "82202",
+                        "valName": "支",
+                        "checked": false
+                    },
+                    {
+                        "valId": "14045",
+                        "valName": "包",
+                        "checked": false
+                    },
+                    {
+                        "valId": "82206",
+                        "valName": "袋",
+                        "checked": false
+                    },
+                    {
+                        "valId": "82205",
+                        "valName": "瓶",
+                        "checked": false
+                    },
+                    {
+                        "valId": "82204",
+                        "valName": "盒",
+                        "checked": false
+                    }
+                ]
+            },
+            {
+                "catId": "4428",
+                "catName": "是否拆零",
+                "checked": false,
+                "valVOList": [
+                    {
+                        "valId": "144087",
+                        "valName": "不可拆零",
+                        "checked": false
+                    },
+                    {
+                        "valId": "144088",
+                        "valName": "可拆零",
+                        "checked": false
+                    }
+                ]
+            },
+            {
+                "catId": "4430",
+                "catName": "进口类别",
+                "checked": false,
+                "valVOList": [
+                    {
+                        "valId": "82196",
+                        "valName": "非进口",
+                        "checked": false
+                    },
+                    {
+                        "valId": "32939",
+                        "valName": "进口",
+                        "checked": false
+                    }
+                ]
+            },
+            {
+                "catId": "4431",
+                "catName": "储运条件",
+                "checked": false,
+                "valVOList": [
+                    {
+                        "valId": "117386",
+                        "valName": "常温（10-30℃）",
+                        "checked": false
+                    },
+                    {
+                        "valId": "82198",
+                        "valName": "阴凉（0-20℃）",
+                        "checked": false
+                    }
+                ]
+            },
+            {
+                "catId": "4432",
+                "catName": "是否冷链",
+                "checked": false,
+                "valVOList": [
+                    {
+                        "valId": "70987",
+                        "valName": "不需要",
+                        "checked": false
+                    }
+                ]
+            },
+            {
+                "catId": "4433",
+                "catName": "厂家授权",
+                "checked": false,
+                "valVOList": [
+                    {
+                        "valId": "70987",
+                        "valName": "不需要",
+                        "checked": false
+                    },
+                    {
+                        "valId": "70986",
+                        "valName": "需要",
+                        "checked": false
+                    }
+                ]
+            }
+        ],
+        "skuPage": {
+            "pageSize": 20,
+            "totalCount": 7500,
+            "currentPage": 1,
+            "pageCount": 375,
+            "result": [
+                {
+                    "invalidType": 1,
+                    "invalidText": "正常",
+                    "user": {
+                        "userType": 1
+                    },
+                    "skuInfoVO": {
+                        "skuId": 37777544400,
+                        "image": "//img10.360buyimg.com/img/jfs/t1/54405/1/2977/165161/5d0ad9f6E268f20a9/9b2248fb9145686f.jpg",
+                        "images": [
+                            "//img20.360buyimg.com/img/jfs/t1/54405/1/2977/165161/5d0ad9f6E268f20a9/9b2248fb9145686f.jpg"
+                        ],
+                        "skuName": "安神补脑液 10ml*10支",
+                        "sale30": 249577,
+                        "catId1": 13720,
+                        "catName1": "药房经营",
+                        "catId2": 23498,
+                        "catName2": "中成药",
+                        "catId3": 23507,
+                        "catName3": "安神剂",
+                        "medicalSpec": "10ml*10支",
+                        "allowNum": "国药准字Z22022453",
+                        "manufacturer": "吉林敖东延边药业股份有限公司",
+                        "validTime": "2023-10-31",
+                        "packUnit": "盒",
+                        "splitUnit": 1,
+                        "basePackNum": 1,
+                        "midPackNum": 1,
+                        "itemPackNum": 60,
+                        "businessScopeId": 87,
+                        "businessScopeName": "中成药",
+                        "commonName": "安神补脑液",
+                        "upcCode": "",
+                        "offsetNum": 1,
+                        "saleDesc": "小包/1盒",
+                        "saleType": 0,
+                        "status": 1,
+                        "isSelf": false,
+                        "selfDrug": false,
+                        "isSuppliers": false,
+                        "isCodeMatch": false,
+                        "packViewList": [
+                            {
+                                "key": 1,
+                                "packText": "小包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 2,
+                                "packText": "中包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 3,
+                                "packText": "件装/60盒",
+                                "offset": 60
+                            }
+                        ],
+                        "drugId": 176410029052,
+                        "productChannel": 1,
+                        "isBargain": null
+                    },
+                    "skuItemVOS": [],
+                    "skuTypeVOS": [],
+                    "venderVO": {
+                        "venderType": null,
+                        "venderId": 10066942,
+                        "shopId": 909911,
+                        "venderName": "黑龙江省百年阜康医药有限公司",
+                        "logoUrl": "//img10.360buyimg.com/popshop//jfs/t1/78469/17/1811/5826/5d031700Ede23ed84/af9c27c25856748d.jpg",
+                        "shopUrl": "http://mall.jd.com/index-909911.html",
+                        "deliveryMoney": null,
+                        "limitDeliveryMoney": null,
+                        "onShelfSkuNum": null,
+                        "ddStatus": 2,
+                        "ddUrl": null,
+                        "relation": 1
+                    },
+                    "priceVO": {
+                        "showPrice": 0,
+                        "crossPrice": 23.00,
+                        "state": 2,
+                        "stateDesc": "未登录",
+                        "promotionType": null,
+                        "promotionId": null,
+                        "grossOfRate": null,
+                        "retailPrice": 23.00
+                    },
+                    "stockVO": {
+                        "stockNum": 100000
+                    },
+                    "restrictVO": null,
+                    "cartButtonVO": {
+                        "isAddCart": false,
+                        "errCode": 0,
+                        "errMsg": "Pin为空(未登录)",
+                        "canBuyNum": 0
+                    },
+                    "freightVOS": null,
+                    "couponVOS": null,
+                    "discountPriceVO": null,
+                    "factorySaleVO": null,
+                    "followVO": null,
+                    "promotionAdvertVO": null,
+                    "promiseVO": null,
+                    "tipsVO": {
+                        "notifyCode": 999
+                    },
+                    "isAddCart": false
+                },
+                {
+                    "invalidType": 1,
+                    "invalidText": "正常",
+                    "user": {
+                        "userType": 1
+                    },
+                    "skuInfoVO": {
+                        "skuId": 37777087797,
+                        "image": "//img14.360buyimg.com/img/jfs/t1/10420/4/5559/149738/5c183d23E9102dfd7/87137c104c2d37f9.jpg",
+                        "images": [
+                            "//img10.360buyimg.com/img/jfs/t1/10420/4/5559/149738/5c183d23E9102dfd7/87137c104c2d37f9.jpg"
+                        ],
+                        "skuName": "藿香正气水 10ml*10支",
+                        "sale30": 126701,
+                        "catId1": 13720,
+                        "catName1": "药房经营",
+                        "catId2": 23498,
+                        "catName2": "中成药",
+                        "catId3": 23500,
+                        "catName3": "祛暑剂",
+                        "medicalSpec": "10ml*10支",
+                        "allowNum": "国药准字Z51022378",
+                        "manufacturer": "四川天府康达药业集团府庆制药有限公司",
+                        "validTime": "2023-03-31",
+                        "packUnit": "盒",
+                        "splitUnit": 1,
+                        "basePackNum": 1,
+                        "midPackNum": 1,
+                        "itemPackNum": 200,
+                        "businessScopeId": 87,
+                        "businessScopeName": "中成药",
+                        "commonName": "藿香正气水",
+                        "upcCode": "",
+                        "offsetNum": 1,
+                        "saleDesc": "小包/1盒",
+                        "saleType": 0,
+                        "status": 1,
+                        "isSelf": false,
+                        "selfDrug": false,
+                        "isSuppliers": false,
+                        "isCodeMatch": false,
+                        "packViewList": [
+                            {
+                                "key": 1,
+                                "packText": "小包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 2,
+                                "packText": "中包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 3,
+                                "packText": "件装/200盒",
+                                "offset": 200
+                            }
+                        ],
+                        "drugId": 221410367118,
+                        "productChannel": 1,
+                        "isBargain": null
+                    },
+                    "skuItemVOS": [],
+                    "skuTypeVOS": [],
+                    "venderVO": {
+                        "venderType": null,
+                        "venderId": 10066942,
+                        "shopId": 909911,
+                        "venderName": "黑龙江省百年阜康医药有限公司",
+                        "logoUrl": "//img20.360buyimg.com/popshop//jfs/t1/78469/17/1811/5826/5d031700Ede23ed84/af9c27c25856748d.jpg",
+                        "shopUrl": "http://mall.jd.com/index-909911.html",
+                        "deliveryMoney": null,
+                        "limitDeliveryMoney": null,
+                        "onShelfSkuNum": null,
+                        "ddStatus": 2,
+                        "ddUrl": null,
+                        "relation": 1
+                    },
+                    "priceVO": {
+                        "showPrice": 0,
+                        "crossPrice": 3.00,
+                        "state": 2,
+                        "stateDesc": "未登录",
+                        "promotionType": null,
+                        "promotionId": null,
+                        "grossOfRate": null,
+                        "retailPrice": 3.00
+                    },
+                    "stockVO": {
+                        "stockNum": 100000
+                    },
+                    "restrictVO": null,
+                    "cartButtonVO": {
+                        "isAddCart": false,
+                        "errCode": 0,
+                        "errMsg": "Pin为空(未登录)",
+                        "canBuyNum": 0
+                    },
+                    "freightVOS": null,
+                    "couponVOS": null,
+                    "discountPriceVO": null,
+                    "factorySaleVO": null,
+                    "followVO": null,
+                    "promotionAdvertVO": null,
+                    "promiseVO": null,
+                    "tipsVO": {
+                        "notifyCode": 999
+                    },
+                    "isAddCart": false
+                },
+                {
+                    "invalidType": 1,
+                    "invalidText": "正常",
+                    "user": {
+                        "userType": 1
+                    },
+                    "skuInfoVO": {
+                        "skuId": 35039917961,
+                        "image": "//img30.360buyimg.com/img/jfs/t1/9353/37/7129/96521/5be2bc82E01c74681/db1b6d9268483ffa.jpg",
+                        "images": [
+                            "//img14.360buyimg.com/img/jfs/t1/9353/37/7129/96521/5be2bc82E01c74681/db1b6d9268483ffa.jpg",
+                            "//img10.360buyimg.com/img/jfs/t1/7859/13/7048/75840/5be2bc82E185e96f6/66ca59b508b1a266.jpg",
+                            "//img20.360buyimg.com/img/jfs/t1/9271/5/6894/38829/5be2bc82E01005e2e/131f61cd3d9fc1c6.jpg",
+                            "//img20.360buyimg.com/img/jfs/t1/8328/20/6909/88432/5be2bc82E9dae6b62/1dbdbc90e70604fb.jpg",
+                            "//img30.360buyimg.com/img/jfs/t1/8201/25/7080/66999/5be2bc82E7f1bd57a/77123aff5c4e1425.jpg",
+                            "//img14.360buyimg.com/img/jfs/t1/7939/21/6900/90615/5be2bc82E784c880a/4aebdc563bfd4aa0.jpg"
+                        ],
+                        "skuName": "藿香正气口服液 10ml*5支",
+                        "sale30": 122716,
+                        "catId1": 13720,
+                        "catName1": "药房经营",
+                        "catId2": 23498,
+                        "catName2": "中成药",
+                        "catId3": 23500,
+                        "catName3": "祛暑剂",
+                        "medicalSpec": "10ml*5支",
+                        "allowNum": "国药准字Z50020409",
+                        "manufacturer": "太极集团重庆涪陵制药厂有限公司",
+                        "validTime": "2024-01-31",
+                        "packUnit": "盒",
+                        "splitUnit": 1,
+                        "basePackNum": 1,
+                        "midPackNum": 10,
+                        "itemPackNum": 120,
+                        "businessScopeId": 87,
+                        "businessScopeName": "中成药",
+                        "commonName": "藿香正气口服液",
+                        "upcCode": null,
+                        "offsetNum": 1,
+                        "saleDesc": "小包/1盒",
+                        "saleType": 0,
+                        "status": 1,
+                        "isSelf": false,
+                        "selfDrug": false,
+                        "isSuppliers": false,
+                        "isCodeMatch": false,
+                        "packViewList": [
+                            {
+                                "key": 1,
+                                "packText": "小包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 2,
+                                "packText": "中包/10盒",
+                                "offset": 10
+                            },
+                            {
+                                "key": 3,
+                                "packText": "件装/120盒",
+                                "offset": 120
+                            }
+                        ],
+                        "drugId": 219410344930,
+                        "productChannel": 1,
+                        "isBargain": null
+                    },
+                    "skuItemVOS": [],
+                    "skuTypeVOS": [],
+                    "venderVO": {
+                        "venderType": null,
+                        "venderId": 10000844,
+                        "shopId": 834640,
+                        "venderName": "合肥曼迪新药业有限责任公司",
+                        "logoUrl": "//img13.360buyimg.com/popshop//jfs/t1/30909/25/4627/2928/5c7f228fE133479c7/7a4e1c307bb1ca70.jpg",
+                        "shopUrl": "http://mall.jd.com/index-834640.html",
+                        "deliveryMoney": null,
+                        "limitDeliveryMoney": null,
+                        "onShelfSkuNum": null,
+                        "ddStatus": 2,
+                        "ddUrl": null,
+                        "relation": 1
+                    },
+                    "priceVO": {
+                        "showPrice": 0,
+                        "crossPrice": 9.94,
+                        "state": 2,
+                        "stateDesc": "未登录",
+                        "promotionType": null,
+                        "promotionId": null,
+                        "grossOfRate": null,
+                        "retailPrice": 9.94
+                    },
+                    "stockVO": {
+                        "stockNum": 100000
+                    },
+                    "restrictVO": null,
+                    "cartButtonVO": {
+                        "isAddCart": false,
+                        "errCode": 0,
+                        "errMsg": "Pin为空(未登录)",
+                        "canBuyNum": 0
+                    },
+                    "freightVOS": null,
+                    "couponVOS": null,
+                    "discountPriceVO": null,
+                    "factorySaleVO": null,
+                    "followVO": null,
+                    "promotionAdvertVO": null,
+                    "promiseVO": null,
+                    "tipsVO": {
+                        "notifyCode": 999
+                    },
+                    "isAddCart": false
+                },
+                {
+                    "invalidType": 1,
+                    "invalidText": "正常",
+                    "user": {
+                        "userType": 1
+                    },
+                    "skuInfoVO": {
+                        "skuId": 38528853646,
+                        "image": "//img13.360buyimg.com/img/jfs/t1/173936/5/5881/337911/608110c5E98a320fa/7e41023ad1dc4ddc.jpg",
+                        "images": [
+                            "//img13.360buyimg.com/img/jfs/t1/173936/5/5881/337911/608110c5E98a320fa/7e41023ad1dc4ddc.jpg",
+                            "//img30.360buyimg.com/img/jfs/t1/11103/39/5771/54344/5c371335E1896772c/1bcbf26058ba0138.jpg",
+                            "//img20.360buyimg.com/img/jfs/t1/23744/36/4859/67890/5c371335E3149fa2b/f1327373f6b8ad68.jpg",
+                            "//img20.360buyimg.com/img/jfs/t1/17065/38/4961/124985/5c371335Ed5ed55d8/dfe139d604fbc820.jpg"
+                        ],
+                        "skuName": "藿香正气水10ml*10支*200盒 10ml*10支*200盒",
+                        "sale30": 97367,
+                        "catId1": 13720,
+                        "catName1": "药房经营",
+                        "catId2": 23498,
+                        "catName2": "中成药",
+                        "catId3": 23500,
+                        "catName3": "祛暑剂",
+                        "medicalSpec": "10ml*10支*200盒",
+                        "allowNum": "国药准字Z51022126",
+                        "manufacturer": "四川依科制药有限公司",
+                        "validTime": "2023-04-01",
+                        "packUnit": "盒",
+                        "splitUnit": 1,
+                        "basePackNum": 1,
+                        "midPackNum": 1,
+                        "itemPackNum": 200,
+                        "businessScopeId": 87,
+                        "businessScopeName": "中成药",
+                        "commonName": "藿香正气水",
+                        "upcCode": "",
+                        "offsetNum": 1,
+                        "saleDesc": "小包/1盒",
+                        "saleType": 0,
+                        "status": 1,
+                        "isSelf": false,
+                        "selfDrug": false,
+                        "isSuppliers": false,
+                        "isCodeMatch": false,
+                        "packViewList": [
+                            {
+                                "key": 1,
+                                "packText": "小包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 2,
+                                "packText": "中包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 3,
+                                "packText": "件装/200盒",
+                                "offset": 200
+                            }
+                        ],
+                        "drugId": null,
+                        "productChannel": 1,
+                        "isBargain": 0
+                    },
+                    "skuItemVOS": [],
+                    "skuTypeVOS": [],
+                    "venderVO": {
+                        "venderType": null,
+                        "venderId": 10066271,
+                        "shopId": 905983,
+                        "venderName": "洛阳明康药业有限公司",
+                        "logoUrl": "//img11.360buyimg.com/popshop//jfs/t28585/317/948021690/7127/a120b225/5c023796N994388a6.jpg",
+                        "shopUrl": "http://mall.jd.com/index-905983.html",
+                        "deliveryMoney": null,
+                        "limitDeliveryMoney": null,
+                        "onShelfSkuNum": null,
+                        "ddStatus": 2,
+                        "ddUrl": null,
+                        "relation": 1
+                    },
+                    "priceVO": {
+                        "showPrice": 0,
+                        "crossPrice": 3.82,
+                        "state": 2,
+                        "stateDesc": "未登录",
+                        "promotionType": null,
+                        "promotionId": null,
+                        "grossOfRate": null,
+                        "retailPrice": 3.82
+                    },
+                    "stockVO": {
+                        "stockNum": 100000
+                    },
+                    "restrictVO": null,
+                    "cartButtonVO": {
+                        "isAddCart": false,
+                        "errCode": 0,
+                        "errMsg": "Pin为空(未登录)",
+                        "canBuyNum": 0
+                    },
+                    "freightVOS": null,
+                    "couponVOS": null,
+                    "discountPriceVO": null,
+                    "factorySaleVO": null,
+                    "followVO": null,
+                    "promotionAdvertVO": null,
+                    "promiseVO": null,
+                    "tipsVO": {
+                        "notifyCode": 999
+                    },
+                    "isAddCart": false
+                },
+                {
+                    "invalidType": 1,
+                    "invalidText": "正常",
+                    "user": {
+                        "userType": 1
+                    },
+                    "skuInfoVO": {
+                        "skuId": 65333047801,
+                        "image": "//img10.360buyimg.com/img/jfs/t1/111838/23/3007/240007/5ea56104Eed557fde/9fa0155328519928.jpg",
+                        "images": [
+                            "//img10.360buyimg.com/img/jfs/t1/111838/23/3007/240007/5ea56104Eed557fde/9fa0155328519928.jpg"
+                        ],
+                        "skuName": "藿香正气口服液10ml*5支 10ml*5支",
+                        "sale30": 68057,
+                        "catId1": 13720,
+                        "catName1": "药房经营",
+                        "catId2": 23498,
+                        "catName2": "中成药",
+                        "catId3": 23500,
+                        "catName3": "祛暑剂",
+                        "medicalSpec": "10ml*5支",
+                        "allowNum": "国药准字Z50020409",
+                        "manufacturer": "太极集团重庆涪陵制药厂有限公司",
+                        "validTime": "2024-03-28",
+                        "packUnit": "盒",
+                        "splitUnit": 1,
+                        "basePackNum": 1,
+                        "midPackNum": 1,
+                        "itemPackNum": 2,
+                        "businessScopeId": 87,
+                        "businessScopeName": "中成药",
+                        "commonName": "藿香正气口服液",
+                        "upcCode": "",
+                        "offsetNum": 1,
+                        "saleDesc": "小包/1盒",
+                        "saleType": 0,
+                        "status": 1,
+                        "isSelf": false,
+                        "selfDrug": false,
+                        "isSuppliers": false,
+                        "isCodeMatch": false,
+                        "packViewList": [
+                            {
+                                "key": 1,
+                                "packText": "小包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 2,
+                                "packText": "中包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 3,
+                                "packText": "件装/2盒",
+                                "offset": 2
+                            }
+                        ],
+                        "drugId": 219410344930,
+                        "productChannel": 1,
+                        "isBargain": 0
+                    },
+                    "skuItemVOS": [],
+                    "skuTypeVOS": [],
+                    "venderVO": {
+                        "venderType": null,
+                        "venderId": 10247152,
+                        "shopId": 10109415,
+                        "venderName": "四川时代仁通医药有限公司",
+                        "logoUrl": "//img14.360buyimg.com/popshop//jfs/t1/51004/29/13037/4467/5d9eb3a7E6444fe33/6043ea5386a6cd11.jpg",
+                        "shopUrl": "http://mall.jd.com/index-10109415.html",
+                        "deliveryMoney": null,
+                        "limitDeliveryMoney": null,
+                        "onShelfSkuNum": null,
+                        "ddStatus": 2,
+                        "ddUrl": null,
+                        "relation": 1
+                    },
+                    "priceVO": {
+                        "showPrice": 0,
+                        "crossPrice": 9999.00,
+                        "state": 2,
+                        "stateDesc": "未登录",
+                        "promotionType": null,
+                        "promotionId": null,
+                        "grossOfRate": null,
+                        "retailPrice": 9999.00
+                    },
+                    "stockVO": {
+                        "stockNum": 100000
+                    },
+                    "restrictVO": null,
+                    "cartButtonVO": {
+                        "isAddCart": false,
+                        "errCode": 0,
+                        "errMsg": "Pin为空(未登录)",
+                        "canBuyNum": 0
+                    },
+                    "freightVOS": null,
+                    "couponVOS": null,
+                    "discountPriceVO": null,
+                    "factorySaleVO": null,
+                    "followVO": null,
+                    "promotionAdvertVO": null,
+                    "promiseVO": null,
+                    "tipsVO": {
+                        "notifyCode": 999
+                    },
+                    "isAddCart": false
+                },
+                {
+                    "invalidType": 1,
+                    "invalidText": "正常",
+                    "user": {
+                        "userType": 1
+                    },
+                    "skuInfoVO": {
+                        "skuId": 38587496733,
+                        "image": "//img12.360buyimg.com/img/jfs/t1/195225/33/10039/99639/60d5a4e5E964a6e16/8069aa87ff4131ef.jpg",
+                        "images": [
+                            "//img30.360buyimg.com/img/jfs/t1/195225/33/10039/99639/60d5a4e5E964a6e16/8069aa87ff4131ef.jpg",
+                            "//img11.360buyimg.com/img/jfs/t1/181548/27/11151/231230/60d5a502E0dc53149/0366e839c1cc8a78.jpg"
+                        ],
+                        "skuName": "藿香正气水10ml*10支*200盒 10ml*10支*200盒",
+                        "sale30": 61534,
+                        "catId1": 13720,
+                        "catName1": "药房经营",
+                        "catId2": 23498,
+                        "catName2": "中成药",
+                        "catId3": 23500,
+                        "catName3": "祛暑剂",
+                        "medicalSpec": "10ml*10支*200盒",
+                        "allowNum": "国药准字Z51022264",
+                        "manufacturer": "四川彩虹",
+                        "validTime": "2022-12-18",
+                        "packUnit": "盒",
+                        "splitUnit": 1,
+                        "basePackNum": 1,
+                        "midPackNum": 1,
+                        "itemPackNum": 200,
+                        "businessScopeId": 87,
+                        "businessScopeName": "中成药",
+                        "commonName": "藿香正气水",
+                        "upcCode": "",
+                        "offsetNum": 1,
+                        "saleDesc": "小包/1盒",
+                        "saleType": 0,
+                        "status": 1,
+                        "isSelf": false,
+                        "selfDrug": false,
+                        "isSuppliers": false,
+                        "isCodeMatch": false,
+                        "packViewList": [
+                            {
+                                "key": 1,
+                                "packText": "小包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 2,
+                                "packText": "中包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 3,
+                                "packText": "件装/200盒",
+                                "offset": 200
+                            }
+                        ],
+                        "drugId": null,
+                        "productChannel": 1,
+                        "isBargain": 0
+                    },
+                    "skuItemVOS": [],
+                    "skuTypeVOS": [],
+                    "venderVO": {
+                        "venderType": null,
+                        "venderId": 10066271,
+                        "shopId": 905983,
+                        "venderName": "洛阳明康药业有限公司",
+                        "logoUrl": "//img10.360buyimg.com/popshop//jfs/t28585/317/948021690/7127/a120b225/5c023796N994388a6.jpg",
+                        "shopUrl": "http://mall.jd.com/index-905983.html",
+                        "deliveryMoney": null,
+                        "limitDeliveryMoney": null,
+                        "onShelfSkuNum": null,
+                        "ddStatus": 2,
+                        "ddUrl": null,
+                        "relation": 1
+                    },
+                    "priceVO": {
+                        "showPrice": 0,
+                        "crossPrice": 4.00,
+                        "state": 2,
+                        "stateDesc": "未登录",
+                        "promotionType": null,
+                        "promotionId": null,
+                        "grossOfRate": null,
+                        "retailPrice": 4.00
+                    },
+                    "stockVO": {
+                        "stockNum": 100000
+                    },
+                    "restrictVO": null,
+                    "cartButtonVO": {
+                        "isAddCart": false,
+                        "errCode": 0,
+                        "errMsg": "Pin为空(未登录)",
+                        "canBuyNum": 0
+                    },
+                    "freightVOS": null,
+                    "couponVOS": null,
+                    "discountPriceVO": null,
+                    "factorySaleVO": null,
+                    "followVO": null,
+                    "promotionAdvertVO": null,
+                    "promiseVO": null,
+                    "tipsVO": {
+                        "notifyCode": 999
+                    },
+                    "isAddCart": false
+                },
+                {
+                    "invalidType": 1,
+                    "invalidText": "正常",
+                    "user": {
+                        "userType": 1
+                    },
+                    "skuInfoVO": {
+                        "skuId": 43253358550,
+                        "image": "//img20.360buyimg.com/img/jfs/t1/19197/10/12958/51474/5c9c9204E9b5edd0a/71a2f3787d97c8c6.jpg",
+                        "images": [
+                            "//img20.360buyimg.com/img/jfs/t1/19197/10/12958/51474/5c9c9204E9b5edd0a/71a2f3787d97c8c6.jpg"
+                        ],
+                        "skuName": "藿香正气水 10ml*10支",
+                        "sale30": 59594,
+                        "catId1": 13720,
+                        "catName1": "药房经营",
+                        "catId2": 13726,
+                        "catName2": "药品",
+                        "catId3": 13746,
+                        "catName3": "中成药",
+                        "medicalSpec": "10ml*10支",
+                        "allowNum": "国药准字Z51022126",
+                        "manufacturer": "四川依科制药有限公司",
+                        "validTime": "2023-03-31",
+                        "packUnit": "盒",
+                        "splitUnit": 2,
+                        "basePackNum": 1,
+                        "midPackNum": 1,
+                        "itemPackNum": 200,
+                        "businessScopeId": 87,
+                        "businessScopeName": "中成药",
+                        "commonName": "藿香正气水",
+                        "upcCode": "",
+                        "offsetNum": 1,
+                        "saleDesc": "中包/1盒",
+                        "saleType": 0,
+                        "status": 1,
+                        "isSelf": false,
+                        "selfDrug": false,
+                        "isSuppliers": false,
+                        "isCodeMatch": false,
+                        "packViewList": [
+                            {
+                                "key": 2,
+                                "packText": "中包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 3,
+                                "packText": "件装/200盒",
+                                "offset": 200
+                            }
+                        ],
+                        "drugId": 222210354746,
+                        "productChannel": 1,
+                        "isBargain": 0
+                    },
+                    "skuItemVOS": [],
+                    "skuTypeVOS": [],
+                    "venderVO": {
+                        "venderType": null,
+                        "venderId": 10105163,
+                        "shopId": 949417,
+                        "venderName": "必康百川濮阳分公司",
+                        "logoUrl": "//img13.360buyimg.com/popshop//jfs/t1/14807/14/9554/9583/5c7f48acEe3fc4803/4ed94182bc95df02.png",
+                        "shopUrl": "http://mall.jd.com/index-949417.html",
+                        "deliveryMoney": null,
+                        "limitDeliveryMoney": null,
+                        "onShelfSkuNum": null,
+                        "ddStatus": 2,
+                        "ddUrl": null,
+                        "relation": 1
+                    },
+                    "priceVO": {
+                        "showPrice": 0,
+                        "crossPrice": 5.60,
+                        "state": 2,
+                        "stateDesc": "未登录",
+                        "promotionType": null,
+                        "promotionId": null,
+                        "grossOfRate": null,
+                        "retailPrice": 5.60
+                    },
+                    "stockVO": {
+                        "stockNum": 100000
+                    },
+                    "restrictVO": null,
+                    "cartButtonVO": {
+                        "isAddCart": false,
+                        "errCode": 0,
+                        "errMsg": "Pin为空(未登录)",
+                        "canBuyNum": 0
+                    },
+                    "freightVOS": null,
+                    "couponVOS": null,
+                    "discountPriceVO": null,
+                    "factorySaleVO": null,
+                    "followVO": null,
+                    "promotionAdvertVO": null,
+                    "promiseVO": null,
+                    "tipsVO": {
+                        "notifyCode": 999
+                    },
+                    "isAddCart": false
+                },
+                {
+                    "invalidType": 1,
+                    "invalidText": "正常",
+                    "user": {
+                        "userType": 1
+                    },
+                    "skuInfoVO": {
+                        "skuId": 62038232288,
+                        "image": "//img11.360buyimg.com/img/jfs/t1/147885/24/8379/375228/5f5f3f41E393733aa/7a05dbcd3bfab9ff.png",
+                        "images": [
+                            "//img20.360buyimg.com/img/jfs/t1/147885/24/8379/375228/5f5f3f41E393733aa/7a05dbcd3bfab9ff.png",
+                            "//img30.360buyimg.com/img/jfs/t1/66295/21/15823/114058/5dd5f984Eed9dae6b/b1596cb8e8adcdbe.jpg",
+                            "//img12.360buyimg.com/img/jfs/t1/83827/25/15829/125251/5dd5f984Eb5b060b7/a503c53252e26ee7.jpg",
+                            "//img10.360buyimg.com/img/jfs/t1/99446/5/2795/181448/5dd5f984E68d0198a/606fe9ebeeb5c9db.jpg",
+                            "//img20.360buyimg.com/img/jfs/t1/105660/21/2117/108831/5dd5f984Eee9cf821/8b27d930ac01a8bb.jpg"
+                        ],
+                        "skuName": "十滴水 5ml*10支",
+                        "sale30": 57728,
+                        "catId1": 13720,
+                        "catName1": "药房经营",
+                        "catId2": 23498,
+                        "catName2": "中成药",
+                        "catId3": 23500,
+                        "catName3": "祛暑剂",
+                        "medicalSpec": "5ml*10支",
+                        "allowNum": "国药准字Z45021535",
+                        "manufacturer": "广西慧宝源医药科技有限公司",
+                        "validTime": "2023-02-28",
+                        "packUnit": "盒",
+                        "splitUnit": 1,
+                        "basePackNum": 1,
+                        "midPackNum": 1,
+                        "itemPackNum": 300,
+                        "businessScopeId": 87,
+                        "businessScopeName": "中成药",
+                        "commonName": "十滴水",
+                        "upcCode": "",
+                        "offsetNum": 1,
+                        "saleDesc": "小包/1盒",
+                        "saleType": 0,
+                        "status": 1,
+                        "isSelf": false,
+                        "selfDrug": false,
+                        "isSuppliers": false,
+                        "isCodeMatch": false,
+                        "packViewList": [
+                            {
+                                "key": 1,
+                                "packText": "小包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 2,
+                                "packText": "中包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 3,
+                                "packText": "件装/300盒",
+                                "offset": 300
+                            }
+                        ],
+                        "drugId": 221410356832,
+                        "productChannel": 1,
+                        "isBargain": 0
+                    },
+                    "skuItemVOS": [],
+                    "skuTypeVOS": [],
+                    "venderVO": {
+                        "venderType": null,
+                        "venderId": 10264937,
+                        "shopId": 10129770,
+                        "venderName": "广东丰鑫药业有限公司",
+                        "logoUrl": "//img30.360buyimg.com/popshop//jfs/t1/80687/35/15808/11867/5dd759fcE4ae3b0ac/637ed23d38493f35.png",
+                        "shopUrl": "http://mall.jd.com/index-10129770.html",
+                        "deliveryMoney": null,
+                        "limitDeliveryMoney": null,
+                        "onShelfSkuNum": null,
+                        "ddStatus": 2,
+                        "ddUrl": null,
+                        "relation": 1
+                    },
+                    "priceVO": {
+                        "showPrice": 0,
+                        "crossPrice": 4.02,
+                        "state": 2,
+                        "stateDesc": "未登录",
+                        "promotionType": null,
+                        "promotionId": null,
+                        "grossOfRate": null,
+                        "retailPrice": 4.02
+                    },
+                    "stockVO": {
+                        "stockNum": 100000
+                    },
+                    "restrictVO": null,
+                    "cartButtonVO": {
+                        "isAddCart": false,
+                        "errCode": 0,
+                        "errMsg": "Pin为空(未登录)",
+                        "canBuyNum": 0
+                    },
+                    "freightVOS": null,
+                    "couponVOS": null,
+                    "discountPriceVO": null,
+                    "factorySaleVO": null,
+                    "followVO": null,
+                    "promotionAdvertVO": null,
+                    "promiseVO": null,
+                    "tipsVO": {
+                        "notifyCode": 999
+                    },
+                    "isAddCart": false
+                },
+                {
+                    "invalidType": 1,
+                    "invalidText": "正常",
+                    "user": {
+                        "userType": 1
+                    },
+                    "skuInfoVO": {
+                        "skuId": 10032661384357,
+                        "image": "//img10.360buyimg.com/img/jfs/t1/188761/1/9005/100337/60cc6abaE8eeea4e1/1ccbcfdb3157da5d.png",
+                        "images": [
+                            "//img11.360buyimg.com/img/jfs/t1/188761/1/9005/100337/60cc6abaE8eeea4e1/1ccbcfdb3157da5d.png"
+                        ],
+                        "skuName": "复方鱼腥草合剂 10ml*18瓶",
+                        "sale30": 45171,
+                        "catId1": 13720,
+                        "catName1": "药房经营",
+                        "catId2": 23366,
+                        "catName2": "西药",
+                        "catId3": 23369,
+                        "catName3": "解热镇痛/非甾体抗炎药",
+                        "medicalSpec": "10ml*18瓶",
+                        "allowNum": "国药准字Z20026199",
+                        "manufacturer": "浙江康恩贝中药有限公司",
+                        "validTime": "2022-04-30",
+                        "packUnit": "盒",
+                        "splitUnit": 1,
+                        "basePackNum": 1,
+                        "midPackNum": 1,
+                        "itemPackNum": 48,
+                        "businessScopeId": 87,
+                        "businessScopeName": "中成药",
+                        "commonName": "复方鱼腥草合剂",
+                        "upcCode": null,
+                        "offsetNum": 1,
+                        "saleDesc": "小包/1盒",
+                        "saleType": 0,
+                        "status": 1,
+                        "isSelf": false,
+                        "selfDrug": false,
+                        "isSuppliers": false,
+                        "isCodeMatch": false,
+                        "packViewList": [
+                            {
+                                "key": 1,
+                                "packText": "小包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 2,
+                                "packText": "中包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 3,
+                                "packText": "件装/48盒",
+                                "offset": 48
+                            }
+                        ],
+                        "drugId": 227410778801,
+                        "productChannel": 1,
+                        "isBargain": 0
+                    },
+                    "skuItemVOS": [],
+                    "skuTypeVOS": [],
+                    "venderVO": {
+                        "venderType": null,
+                        "venderId": 10361065,
+                        "shopId": 10214445,
+                        "venderName": "广西东龙世纪医药有限公司",
+                        "logoUrl": "//img20.360buyimg.com/popshop//jfs/t1/109344/27/12379/3318/5e96ce57E368e04b2/c42f439a7433b333.jpg",
+                        "shopUrl": "http://mall.jd.com/index-10214445.html",
+                        "deliveryMoney": null,
+                        "limitDeliveryMoney": null,
+                        "onShelfSkuNum": null,
+                        "ddStatus": 2,
+                        "ddUrl": null,
+                        "relation": 1
+                    },
+                    "priceVO": {
+                        "showPrice": 0,
+                        "crossPrice": 10.00,
+                        "state": 2,
+                        "stateDesc": "未登录",
+                        "promotionType": null,
+                        "promotionId": null,
+                        "grossOfRate": null,
+                        "retailPrice": 10.00
+                    },
+                    "stockVO": {
+                        "stockNum": 100000
+                    },
+                    "restrictVO": null,
+                    "cartButtonVO": {
+                        "isAddCart": false,
+                        "errCode": 0,
+                        "errMsg": "Pin为空(未登录)",
+                        "canBuyNum": 0
+                    },
+                    "freightVOS": null,
+                    "couponVOS": null,
+                    "discountPriceVO": null,
+                    "factorySaleVO": null,
+                    "followVO": null,
+                    "promotionAdvertVO": null,
+                    "promiseVO": null,
+                    "tipsVO": {
+                        "notifyCode": 999
+                    },
+                    "isAddCart": false
+                },
+                {
+                    "invalidType": 1,
+                    "invalidText": "正常",
+                    "user": {
+                        "userType": 1
+                    },
+                    "skuInfoVO": {
+                        "skuId": 58895443639,
+                        "image": "//img10.360buyimg.com/img/jfs/t1/124712/4/7005/54026/5f0c5006E49e4ed68/fe4e14a3372fa91d.jpg",
+                        "images": [
+                            "//img12.360buyimg.com/img/jfs/t1/124712/4/7005/54026/5f0c5006E49e4ed68/fe4e14a3372fa91d.jpg",
+                            "//img12.360buyimg.com/img/jfs/t1/77602/9/15322/187853/5dcca413E469ee777/4467a23cb9062bd1.jpg",
+                            "//img30.360buyimg.com/img/jfs/t1/99565/29/2178/439643/5dcca413Ecd618e62/15a46548e72896d4.jpg",
+                            "//img11.360buyimg.com/img/jfs/t1/51246/16/15834/81739/5dcca413E6dc2ca51/bcd429f2d09eab29.jpg",
+                            "//img30.360buyimg.com/img/jfs/t1/72901/27/14987/102331/5dcca413Ebfda1ab4/7c6b45f185f403c0.jpg"
+                        ],
+                        "skuName": "蓝芩口服液 10ml*12支",
+                        "sale30": 43495,
+                        "catId1": 13720,
+                        "catName1": "药房经营",
+                        "catId2": 23498,
+                        "catName2": "中成药",
+                        "catId3": 23502,
+                        "catName3": "清热剂",
+                        "medicalSpec": "10ml*12支",
+                        "allowNum": "国药准字Z19991005",
+                        "manufacturer": "扬子江药业集团有限公司",
+                        "validTime": "2024-01-31",
+                        "packUnit": "盒",
+                        "splitUnit": 1,
+                        "basePackNum": 1,
+                        "midPackNum": 1,
+                        "itemPackNum": 40,
+                        "businessScopeId": 87,
+                        "businessScopeName": "中成药",
+                        "commonName": "蓝芩口服液",
+                        "upcCode": "",
+                        "offsetNum": 1,
+                        "saleDesc": "小包/1盒",
+                        "saleType": 0,
+                        "status": 1,
+                        "isSelf": false,
+                        "selfDrug": false,
+                        "isSuppliers": false,
+                        "isCodeMatch": false,
+                        "packViewList": [
+                            {
+                                "key": 1,
+                                "packText": "小包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 2,
+                                "packText": "中包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 3,
+                                "packText": "件装/40盒",
+                                "offset": 40
+                            }
+                        ],
+                        "drugId": 210410245289,
+                        "productChannel": 1,
+                        "isBargain": 0
+                    },
+                    "skuItemVOS": [],
+                    "skuTypeVOS": [],
+                    "venderVO": {
+                        "venderType": null,
+                        "venderId": 10250391,
+                        "shopId": 10113226,
+                        "venderName": "深圳市永祥药房连锁有限公司",
+                        "logoUrl": "//img30.360buyimg.com/popshop//jfs/t1/89907/25/2576/24505/5dd1f0efE3a89af9e/5d819a014a94291d.jpg",
+                        "shopUrl": "http://mall.jd.com/index-10113226.html",
+                        "deliveryMoney": null,
+                        "limitDeliveryMoney": null,
+                        "onShelfSkuNum": null,
+                        "ddStatus": 2,
+                        "ddUrl": null,
+                        "relation": 1
+                    },
+                    "priceVO": {
+                        "showPrice": 0,
+                        "crossPrice": 1998.00,
+                        "state": 2,
+                        "stateDesc": "未登录",
+                        "promotionType": null,
+                        "promotionId": null,
+                        "grossOfRate": null,
+                        "retailPrice": 1998.00
+                    },
+                    "stockVO": {
+                        "stockNum": 100000
+                    },
+                    "restrictVO": null,
+                    "cartButtonVO": {
+                        "isAddCart": false,
+                        "errCode": 0,
+                        "errMsg": "Pin为空(未登录)",
+                        "canBuyNum": 0
+                    },
+                    "freightVOS": null,
+                    "couponVOS": null,
+                    "discountPriceVO": null,
+                    "factorySaleVO": null,
+                    "followVO": null,
+                    "promotionAdvertVO": null,
+                    "promiseVO": null,
+                    "tipsVO": {
+                        "notifyCode": 999
+                    },
+                    "isAddCart": false
+                },
+                {
+                    "invalidType": 1,
+                    "invalidText": "正常",
+                    "user": {
+                        "userType": 1
+                    },
+                    "skuInfoVO": {
+                        "skuId": 53816939304,
+                        "image": "//img20.360buyimg.com/img/jfs/t1/139447/32/13462/170840/5fa3d0abE75e0558c/0c3bbdad81a4a9ad.jpg",
+                        "images": [
+                            "//img11.360buyimg.com/img/jfs/t1/139447/32/13462/170840/5fa3d0abE75e0558c/0c3bbdad81a4a9ad.jpg"
+                        ],
+                        "skuName": "藿香正气水 10ml*10支",
+                        "sale30": 42093,
+                        "catId1": 13720,
+                        "catName1": "药房经营",
+                        "catId2": 23498,
+                        "catName2": "中成药",
+                        "catId3": 23500,
+                        "catName3": "祛暑剂",
+                        "medicalSpec": "10ml*10支",
+                        "allowNum": "国药准字Z51020775",
+                        "manufacturer": "四川德元药业集团有限公司",
+                        "validTime": "2023-03-31",
+                        "packUnit": "盒",
+                        "splitUnit": 1,
+                        "basePackNum": 1,
+                        "midPackNum": 1,
+                        "itemPackNum": 200,
+                        "businessScopeId": 87,
+                        "businessScopeName": "中成药",
+                        "commonName": "藿香正气水",
+                        "upcCode": "",
+                        "offsetNum": 1,
+                        "saleDesc": "小包/1盒",
+                        "saleType": 0,
+                        "status": 1,
+                        "isSelf": false,
+                        "selfDrug": false,
+                        "isSuppliers": false,
+                        "isCodeMatch": false,
+                        "packViewList": [
+                            {
+                                "key": 1,
+                                "packText": "小包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 2,
+                                "packText": "中包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 3,
+                                "packText": "件装/200盒",
+                                "offset": 200
+                            }
+                        ],
+                        "drugId": 190310144497,
+                        "productChannel": 1,
+                        "isBargain": null
+                    },
+                    "skuItemVOS": [],
+                    "skuTypeVOS": [],
+                    "venderVO": {
+                        "venderType": null,
+                        "venderId": 10211725,
+                        "shopId": 10075287,
+                        "venderName": "山西碧锦纳川医药有限公司",
+                        "logoUrl": "//img10.360buyimg.com/popshop//jfs/t1/46615/31/6713/25276/5d440788Ec1566ff8/fb17f4510d81a81e.jpg",
+                        "shopUrl": "http://mall.jd.com/index-10075287.html",
+                        "deliveryMoney": null,
+                        "limitDeliveryMoney": null,
+                        "onShelfSkuNum": null,
+                        "ddStatus": 2,
+                        "ddUrl": null,
+                        "relation": 1
+                    },
+                    "priceVO": {
+                        "showPrice": 0,
+                        "crossPrice": 999.00,
+                        "state": 2,
+                        "stateDesc": "未登录",
+                        "promotionType": null,
+                        "promotionId": null,
+                        "grossOfRate": null,
+                        "retailPrice": 999.00
+                    },
+                    "stockVO": {
+                        "stockNum": 100000
+                    },
+                    "restrictVO": null,
+                    "cartButtonVO": {
+                        "isAddCart": false,
+                        "errCode": 0,
+                        "errMsg": "Pin为空(未登录)",
+                        "canBuyNum": 0
+                    },
+                    "freightVOS": null,
+                    "couponVOS": null,
+                    "discountPriceVO": null,
+                    "factorySaleVO": null,
+                    "followVO": null,
+                    "promotionAdvertVO": null,
+                    "promiseVO": null,
+                    "tipsVO": {
+                        "notifyCode": 999
+                    },
+                    "isAddCart": false
+                },
+                {
+                    "invalidType": 1,
+                    "invalidText": "正常",
+                    "user": {
+                        "userType": 1
+                    },
+                    "skuInfoVO": {
+                        "skuId": 57991212297,
+                        "image": "//img30.360buyimg.com/img/jfs/t1/73624/5/13083/58025/5da51ab0E863e0c93/af5754b6169e442b.jpg",
+                        "images": [
+                            "//img11.360buyimg.com/img/jfs/t1/73624/5/13083/58025/5da51ab0E863e0c93/af5754b6169e442b.jpg"
+                        ],
+                        "skuName": "十滴水 5ml*10支",
+                        "sale30": 39187,
+                        "catId1": 13720,
+                        "catName1": "药房经营",
+                        "catId2": 13726,
+                        "catName2": "药品",
+                        "catId3": 13746,
+                        "catName3": "中成药",
+                        "medicalSpec": "5ml*10支",
+                        "allowNum": "国药准字Z45021535",
+                        "manufacturer": "广西慧宝源医药科技有限公司",
+                        "validTime": "2023-02-28",
+                        "packUnit": "盒",
+                        "splitUnit": 1,
+                        "basePackNum": 1,
+                        "midPackNum": 10,
+                        "itemPackNum": 300,
+                        "businessScopeId": 87,
+                        "businessScopeName": "中成药",
+                        "commonName": "十滴水",
+                        "upcCode": "",
+                        "offsetNum": 1,
+                        "saleDesc": "小包/1盒",
+                        "saleType": 0,
+                        "status": 1,
+                        "isSelf": false,
+                        "selfDrug": false,
+                        "isSuppliers": false,
+                        "isCodeMatch": false,
+                        "packViewList": [
+                            {
+                                "key": 1,
+                                "packText": "小包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 2,
+                                "packText": "中包/10盒",
+                                "offset": 10
+                            },
+                            {
+                                "key": 3,
+                                "packText": "件装/300盒",
+                                "offset": 300
+                            }
+                        ],
+                        "drugId": 221410356832,
+                        "productChannel": 1,
+                        "isBargain": 0
+                    },
+                    "skuItemVOS": [],
+                    "skuTypeVOS": [],
+                    "venderVO": {
+                        "venderType": null,
+                        "venderId": 10247193,
+                        "shopId": 10110488,
+                        "venderName": "广东振群药业有限公司",
+                        "logoUrl": "//img10.360buyimg.com/popshop//jfs/t1/47345/3/12239/4087/5d8de5b3Ef2d7e819/bb054ef40cd4efd7.png",
+                        "shopUrl": "http://mall.jd.com/index-10110488.html",
+                        "deliveryMoney": null,
+                        "limitDeliveryMoney": null,
+                        "onShelfSkuNum": null,
+                        "ddStatus": 2,
+                        "ddUrl": null,
+                        "relation": 1
+                    },
+                    "priceVO": {
+                        "showPrice": 0,
+                        "crossPrice": 999.00,
+                        "state": 2,
+                        "stateDesc": "未登录",
+                        "promotionType": null,
+                        "promotionId": null,
+                        "grossOfRate": null,
+                        "retailPrice": 999.00
+                    },
+                    "stockVO": {
+                        "stockNum": 100000
+                    },
+                    "restrictVO": null,
+                    "cartButtonVO": {
+                        "isAddCart": false,
+                        "errCode": 0,
+                        "errMsg": "Pin为空(未登录)",
+                        "canBuyNum": 0
+                    },
+                    "freightVOS": null,
+                    "couponVOS": null,
+                    "discountPriceVO": null,
+                    "factorySaleVO": null,
+                    "followVO": null,
+                    "promotionAdvertVO": null,
+                    "promiseVO": null,
+                    "tipsVO": {
+                        "notifyCode": 999
+                    },
+                    "isAddCart": false
+                },
+                {
+                    "invalidType": 1,
+                    "invalidText": "正常",
+                    "user": {
+                        "userType": 1
+                    },
+                    "skuInfoVO": {
+                        "skuId": 63718867945,
+                        "image": "//img20.360buyimg.com/img/jfs/t1/126001/27/14287/316503/5f7d8ce7Eaddea876/2a8862ed9678def4.jpg",
+                        "images": [
+                            "//img12.360buyimg.com/img/jfs/t1/126001/27/14287/316503/5f7d8ce7Eaddea876/2a8862ed9678def4.jpg"
+                        ],
+                        "skuName": "藿香正气水 10ml*10支",
+                        "sale30": 38260,
+                        "catId1": 13720,
+                        "catName1": "药房经营",
+                        "catId2": 23498,
+                        "catName2": "中成药",
+                        "catId3": 23500,
+                        "catName3": "祛暑剂",
+                        "medicalSpec": "10ml*10支",
+                        "allowNum": "国药准字Z51022378",
+                        "manufacturer": "四川天府康达药业集团府庆制药有限公司",
+                        "validTime": "2023-03-31",
+                        "packUnit": "盒",
+                        "splitUnit": 1,
+                        "basePackNum": 1,
+                        "midPackNum": 1,
+                        "itemPackNum": 200,
+                        "businessScopeId": 87,
+                        "businessScopeName": "中成药",
+                        "commonName": "藿香正气水",
+                        "upcCode": "",
+                        "offsetNum": 1,
+                        "saleDesc": "小包/1盒",
+                        "saleType": 0,
+                        "status": 1,
+                        "isSelf": false,
+                        "selfDrug": false,
+                        "isSuppliers": false,
+                        "isCodeMatch": false,
+                        "packViewList": [
+                            {
+                                "key": 1,
+                                "packText": "小包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 2,
+                                "packText": "中包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 3,
+                                "packText": "件装/200盒",
+                                "offset": 200
+                            }
+                        ],
+                        "drugId": 221410367118,
+                        "productChannel": 1,
+                        "isBargain": 0
+                    },
+                    "skuItemVOS": [],
+                    "skuTypeVOS": [],
+                    "venderVO": {
+                        "venderType": null,
+                        "venderId": 10264937,
+                        "shopId": 10129770,
+                        "venderName": "广东丰鑫药业有限公司",
+                        "logoUrl": "//img13.360buyimg.com/popshop//jfs/t1/80687/35/15808/11867/5dd759fcE4ae3b0ac/637ed23d38493f35.png",
+                        "shopUrl": "http://mall.jd.com/index-10129770.html",
+                        "deliveryMoney": null,
+                        "limitDeliveryMoney": null,
+                        "onShelfSkuNum": null,
+                        "ddStatus": 2,
+                        "ddUrl": null,
+                        "relation": 1
+                    },
+                    "priceVO": {
+                        "showPrice": 0,
+                        "crossPrice": 4.02,
+                        "state": 2,
+                        "stateDesc": "未登录",
+                        "promotionType": null,
+                        "promotionId": null,
+                        "grossOfRate": null,
+                        "retailPrice": 4.02
+                    },
+                    "stockVO": {
+                        "stockNum": 100000
+                    },
+                    "restrictVO": null,
+                    "cartButtonVO": {
+                        "isAddCart": false,
+                        "errCode": 0,
+                        "errMsg": "Pin为空(未登录)",
+                        "canBuyNum": 0
+                    },
+                    "freightVOS": null,
+                    "couponVOS": null,
+                    "discountPriceVO": null,
+                    "factorySaleVO": null,
+                    "followVO": null,
+                    "promotionAdvertVO": null,
+                    "promiseVO": null,
+                    "tipsVO": {
+                        "notifyCode": 999
+                    },
+                    "isAddCart": false
+                },
+                {
+                    "invalidType": 1,
+                    "invalidText": "正常",
+                    "user": {
+                        "userType": 1
+                    },
+                    "skuInfoVO": {
+                        "skuId": 34068243051,
+                        "image": "//img20.360buyimg.com/img/jfs/t4144/1/2426015273/105723/9df7b24a/58d0dd3cN4b64a16e.jpg",
+                        "images": [
+                            "//img13.360buyimg.com/img/jfs/t4144/1/2426015273/105723/9df7b24a/58d0dd3cN4b64a16e.jpg",
+                            "//img13.360buyimg.com/img/jfs/t4144/1/2426015273/105723/9df7b24a/58d0dd3cN4b64a16e.jpg",
+                            "//img14.360buyimg.com/img/jfs/t4144/1/2426015273/105723/9df7b24a/58d0dd3cN4b64a16e.jpg",
+                            "//img10.360buyimg.com/img/jfs/t4144/1/2426015273/105723/9df7b24a/58d0dd3cN4b64a16e.jpg",
+                            "//img13.360buyimg.com/img/jfs/t4144/1/2426015273/105723/9df7b24a/58d0dd3cN4b64a16e.jpg"
+                        ],
+                        "skuName": "藿香正气口服液 10ml*10支",
+                        "sale30": 35267,
+                        "catId1": 13720,
+                        "catName1": "药房经营",
+                        "catId2": 23498,
+                        "catName2": "中成药",
+                        "catId3": 23500,
+                        "catName3": "祛暑剂",
+                        "medicalSpec": "10ml*10支",
+                        "allowNum": "国药准字Z50020409",
+                        "manufacturer": "太极集团重庆涪陵制药厂有限公司",
+                        "validTime": "2024-04-30",
+                        "packUnit": "盒",
+                        "splitUnit": 1,
+                        "basePackNum": 1,
+                        "midPackNum": 1,
+                        "itemPackNum": 70,
+                        "businessScopeId": 87,
+                        "businessScopeName": "中成药",
+                        "commonName": "藿香正气口服液",
+                        "upcCode": "",
+                        "offsetNum": 1,
+                        "saleDesc": "小包/1盒",
+                        "saleType": 0,
+                        "status": 1,
+                        "isSelf": false,
+                        "selfDrug": false,
+                        "isSuppliers": false,
+                        "isCodeMatch": false,
+                        "packViewList": [
+                            {
+                                "key": 1,
+                                "packText": "小包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 2,
+                                "packText": "中包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 3,
+                                "packText": "件装/70盒",
+                                "offset": 70
+                            }
+                        ],
+                        "drugId": 178910037800,
+                        "productChannel": 1,
+                        "isBargain": null
+                    },
+                    "skuItemVOS": [],
+                    "skuTypeVOS": [],
+                    "venderVO": {
+                        "venderType": null,
+                        "venderId": 10000844,
+                        "shopId": 834640,
+                        "venderName": "合肥曼迪新药业有限责任公司",
+                        "logoUrl": "//img11.360buyimg.com/popshop//jfs/t1/30909/25/4627/2928/5c7f228fE133479c7/7a4e1c307bb1ca70.jpg",
+                        "shopUrl": "http://mall.jd.com/index-834640.html",
+                        "deliveryMoney": null,
+                        "limitDeliveryMoney": null,
+                        "onShelfSkuNum": null,
+                        "ddStatus": 2,
+                        "ddUrl": null,
+                        "relation": 1
+                    },
+                    "priceVO": {
+                        "showPrice": 0,
+                        "crossPrice": 27.72,
+                        "state": 2,
+                        "stateDesc": "未登录",
+                        "promotionType": null,
+                        "promotionId": null,
+                        "grossOfRate": null,
+                        "retailPrice": 27.72
+                    },
+                    "stockVO": {
+                        "stockNum": 100000
+                    },
+                    "restrictVO": null,
+                    "cartButtonVO": {
+                        "isAddCart": false,
+                        "errCode": 0,
+                        "errMsg": "Pin为空(未登录)",
+                        "canBuyNum": 0
+                    },
+                    "freightVOS": null,
+                    "couponVOS": null,
+                    "discountPriceVO": null,
+                    "factorySaleVO": null,
+                    "followVO": null,
+                    "promotionAdvertVO": null,
+                    "promiseVO": null,
+                    "tipsVO": {
+                        "notifyCode": 999
+                    },
+                    "isAddCart": false
+                },
+                {
+                    "invalidType": 1,
+                    "invalidText": "正常",
+                    "user": {
+                        "userType": 1
+                    },
+                    "skuInfoVO": {
+                        "skuId": 49338039401,
+                        "image": "//img10.360buyimg.com/img/jfs/t4144/1/2426015273/105723/9df7b24a/58d0dd3cN4b64a547e.jpg",
+                        "images": [
+                            "//img20.360buyimg.com/img/jfs/t4144/1/2426015273/105723/9df7b24a/58d0dd3cN4b64a547e.jpg",
+                            "//img14.360buyimg.com/img/jfs/t4144/1/2426015273/105723/9df7b24a/58d0dd3cN4b64a547e.jpg",
+                            "//img10.360buyimg.com/img/jfs/t4144/1/2426015273/105723/9df7b24a/58d0dd3cN4b64a547e.jpg",
+                            "//img30.360buyimg.com/img/jfs/t4144/1/2426015273/105723/9df7b24a/58d0dd3cN4b64a547e.jpg",
+                            "//img30.360buyimg.com/img/jfs/t4144/1/2426015273/105723/9df7b24a/58d0dd3cN4b64a547e.jpg"
+                        ],
+                        "skuName": "硫酸庆大霉素注射液 2ml:8万U*10支",
+                        "sale30": 34527,
+                        "catId1": 13720,
+                        "catName1": "药房经营",
+                        "catId2": 23366,
+                        "catName2": "西药",
+                        "catId3": 23367,
+                        "catName3": "抗感染用药",
+                        "medicalSpec": "2ml:8万U*10支",
+                        "allowNum": "国药准字H37021973",
+                        "manufacturer": "辰欣药业股份有限公司",
+                        "validTime": "2024-03-31",
+                        "packUnit": "盒",
+                        "splitUnit": 1,
+                        "basePackNum": 1,
+                        "midPackNum": 1,
+                        "itemPackNum": 300,
+                        "businessScopeId": 86,
+                        "businessScopeName": "化学药制剂",
+                        "commonName": "硫酸庆大霉素注射液2ml：8万单位*10支",
+                        "upcCode": "",
+                        "offsetNum": 1,
+                        "saleDesc": "小包/1盒",
+                        "saleType": 0,
+                        "status": 1,
+                        "isSelf": false,
+                        "selfDrug": false,
+                        "isSuppliers": false,
+                        "isCodeMatch": false,
+                        "packViewList": [
+                            {
+                                "key": 1,
+                                "packText": "小包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 2,
+                                "packText": "中包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 3,
+                                "packText": "件装/300盒",
+                                "offset": 300
+                            }
+                        ],
+                        "drugId": 221410367431,
+                        "productChannel": 1,
+                        "isBargain": null
+                    },
+                    "skuItemVOS": [],
+                    "skuTypeVOS": [],
+                    "venderVO": {
+                        "venderType": null,
+                        "venderId": 10084324,
+                        "shopId": 929776,
+                        "venderName": "山东诺吉雅力医药有限公司",
+                        "logoUrl": "//img12.360buyimg.com/popshop//jfs/t1/32450/15/11339/5238/5cb540bbEe8c92d45/9d8abbf4ea2042a8.jpg",
+                        "shopUrl": "http://mall.jd.com/index-929776.html",
+                        "deliveryMoney": null,
+                        "limitDeliveryMoney": null,
+                        "onShelfSkuNum": null,
+                        "ddStatus": 2,
+                        "ddUrl": null,
+                        "relation": 1
+                    },
+                    "priceVO": {
+                        "showPrice": 0,
+                        "crossPrice": 6.00,
+                        "state": 2,
+                        "stateDesc": "未登录",
+                        "promotionType": null,
+                        "promotionId": null,
+                        "grossOfRate": null,
+                        "retailPrice": 6.00
+                    },
+                    "stockVO": {
+                        "stockNum": 100000
+                    },
+                    "restrictVO": null,
+                    "cartButtonVO": {
+                        "isAddCart": false,
+                        "errCode": 0,
+                        "errMsg": "Pin为空(未登录)",
+                        "canBuyNum": 0
+                    },
+                    "freightVOS": null,
+                    "couponVOS": null,
+                    "discountPriceVO": null,
+                    "factorySaleVO": null,
+                    "followVO": null,
+                    "promotionAdvertVO": null,
+                    "promiseVO": null,
+                    "tipsVO": {
+                        "notifyCode": 999
+                    },
+                    "isAddCart": false
+                },
+                {
+                    "invalidType": 1,
+                    "invalidText": "正常",
+                    "user": {
+                        "userType": 1
+                    },
+                    "skuInfoVO": {
+                        "skuId": 59882077359,
+                        "image": "//img11.360buyimg.com/img/jfs/t1/153475/24/20820/55884/60409bcbE948a17dd/9916ef80eb2ed8a7.jpg",
+                        "images": [
+                            "//img12.360buyimg.com/img/jfs/t1/153475/24/20820/55884/60409bcbE948a17dd/9916ef80eb2ed8a7.jpg"
+                        ],
+                        "skuName": "藿香正气水 10ml*10支",
+                        "sale30": 33371,
+                        "catId1": 13720,
+                        "catName1": "药房经营",
+                        "catId2": 23498,
+                        "catName2": "中成药",
+                        "catId3": 23500,
+                        "catName3": "祛暑剂",
+                        "medicalSpec": "10ml*10支",
+                        "allowNum": "国药准字Z51022126",
+                        "manufacturer": "四川依科制药有限公司",
+                        "validTime": "2022-08-31",
+                        "packUnit": "盒",
+                        "splitUnit": 1,
+                        "basePackNum": 1,
+                        "midPackNum": 1,
+                        "itemPackNum": 200,
+                        "businessScopeId": 87,
+                        "businessScopeName": "中成药",
+                        "commonName": "藿香正气水",
+                        "upcCode": "",
+                        "offsetNum": 1,
+                        "saleDesc": "小包/1盒",
+                        "saleType": 0,
+                        "status": 1,
+                        "isSelf": false,
+                        "selfDrug": false,
+                        "isSuppliers": false,
+                        "isCodeMatch": false,
+                        "packViewList": [
+                            {
+                                "key": 1,
+                                "packText": "小包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 2,
+                                "packText": "中包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 3,
+                                "packText": "件装/200盒",
+                                "offset": 200
+                            }
+                        ],
+                        "drugId": 222210354746,
+                        "productChannel": 1,
+                        "isBargain": null
+                    },
+                    "skuItemVOS": [],
+                    "skuTypeVOS": [],
+                    "venderVO": {
+                        "venderType": null,
+                        "venderId": 10250371,
+                        "shopId": 10112040,
+                        "venderName": "河南德尔康药业有限公司",
+                        "logoUrl": "//img14.360buyimg.com/popshop//jfs/t1/112504/27/3452/15320/5ea7d101Eaf5e80f3/66466f7a80d17083.png",
+                        "shopUrl": "http://mall.jd.com/index-10112040.html",
+                        "deliveryMoney": null,
+                        "limitDeliveryMoney": null,
+                        "onShelfSkuNum": null,
+                        "ddStatus": 2,
+                        "ddUrl": null,
+                        "relation": 1
+                    },
+                    "priceVO": {
+                        "showPrice": 0,
+                        "crossPrice": 4.40,
+                        "state": 2,
+                        "stateDesc": "未登录",
+                        "promotionType": null,
+                        "promotionId": null,
+                        "grossOfRate": null,
+                        "retailPrice": 4.40
+                    },
+                    "stockVO": {
+                        "stockNum": 100000
+                    },
+                    "restrictVO": null,
+                    "cartButtonVO": {
+                        "isAddCart": false,
+                        "errCode": 0,
+                        "errMsg": "Pin为空(未登录)",
+                        "canBuyNum": 0
+                    },
+                    "freightVOS": null,
+                    "couponVOS": null,
+                    "discountPriceVO": null,
+                    "factorySaleVO": null,
+                    "followVO": null,
+                    "promotionAdvertVO": null,
+                    "promiseVO": null,
+                    "tipsVO": {
+                        "notifyCode": 999
+                    },
+                    "isAddCart": false
+                },
+                {
+                    "invalidType": 1,
+                    "invalidText": "正常",
+                    "user": {
+                        "userType": 1
+                    },
+                    "skuInfoVO": {
+                        "skuId": 64066983848,
+                        "image": "//img14.360buyimg.com/img/jfs/t1/195217/24/5568/79419/60b99a17Eb74a99be/50d59128e0aa4682.jpg",
+                        "images": [
+                            "//img12.360buyimg.com/img/jfs/t1/195217/24/5568/79419/60b99a17Eb74a99be/50d59128e0aa4682.jpg"
+                        ],
+                        "skuName": "藿香正气水 10ml×10/200",
+                        "sale30": 31177,
+                        "catId1": 13720,
+                        "catName1": "药房经营",
+                        "catId2": 23498,
+                        "catName2": "中成药",
+                        "catId3": 23500,
+                        "catName3": "祛暑剂",
+                        "medicalSpec": "10ml×10/200",
+                        "allowNum": "国药准字Z51022126",
+                        "manufacturer": "四川依科制药有限公司",
+                        "validTime": "2023-04-30",
+                        "packUnit": "盒",
+                        "splitUnit": 1,
+                        "basePackNum": 1,
+                        "midPackNum": 1,
+                        "itemPackNum": 200,
+                        "businessScopeId": 87,
+                        "businessScopeName": "中成药",
+                        "commonName": "藿香正气水",
+                        "upcCode": "",
+                        "offsetNum": 1,
+                        "saleDesc": "小包/1盒",
+                        "saleType": 0,
+                        "status": 1,
+                        "isSelf": false,
+                        "selfDrug": false,
+                        "isSuppliers": false,
+                        "isCodeMatch": false,
+                        "packViewList": [
+                            {
+                                "key": 1,
+                                "packText": "小包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 2,
+                                "packText": "中包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 3,
+                                "packText": "件装/200盒",
+                                "offset": 200
+                            }
+                        ],
+                        "drugId": null,
+                        "productChannel": 1,
+                        "isBargain": 0
+                    },
+                    "skuItemVOS": [],
+                    "skuTypeVOS": [],
+                    "venderVO": {
+                        "venderType": null,
+                        "venderId": 10277792,
+                        "shopId": 10140477,
+                        "venderName": "河南佐今明医药有限公司",
+                        "logoUrl": "//img20.360buyimg.com/popshop//jfs/t1/123800/24/14178/9296/5f7bd14cE3bfb1e26/aae20c6932a75084.png",
+                        "shopUrl": "http://mall.jd.com/index-10140477.html",
+                        "deliveryMoney": null,
+                        "limitDeliveryMoney": null,
+                        "onShelfSkuNum": null,
+                        "ddStatus": 2,
+                        "ddUrl": null,
+                        "relation": 1
+                    },
+                    "priceVO": {
+                        "showPrice": 0,
+                        "crossPrice": 2.56,
+                        "state": 2,
+                        "stateDesc": "未登录",
+                        "promotionType": null,
+                        "promotionId": null,
+                        "grossOfRate": null,
+                        "retailPrice": 2.56
+                    },
+                    "stockVO": {
+                        "stockNum": 100000
+                    },
+                    "restrictVO": null,
+                    "cartButtonVO": {
+                        "isAddCart": false,
+                        "errCode": 0,
+                        "errMsg": "Pin为空(未登录)",
+                        "canBuyNum": 0
+                    },
+                    "freightVOS": null,
+                    "couponVOS": null,
+                    "discountPriceVO": null,
+                    "factorySaleVO": null,
+                    "followVO": null,
+                    "promotionAdvertVO": null,
+                    "promiseVO": null,
+                    "tipsVO": {
+                        "notifyCode": 999
+                    },
+                    "isAddCart": false
+                },
+                {
+                    "invalidType": 1,
+                    "invalidText": "正常",
+                    "user": {
+                        "userType": 1
+                    },
+                    "skuInfoVO": {
+                        "skuId": 42403527680,
+                        "image": "//img12.360buyimg.com/img/jfs/t1/58343/28/10975/249646/5d804905Ea6257c4f/23929b187d9b26e9.jpg",
+                        "images": [
+                            "//img11.360buyimg.com/img/jfs/t1/58343/28/10975/249646/5d804905Ea6257c4f/23929b187d9b26e9.jpg"
+                        ],
+                        "skuName": "柴胡注射液 2ml*10支",
+                        "sale30": 28647,
+                        "catId1": 13720,
+                        "catName1": "药房经营",
+                        "catId2": 23498,
+                        "catName2": "中成药",
+                        "catId3": 23499,
+                        "catName3": "解表剂",
+                        "medicalSpec": "2ml*10支",
+                        "allowNum": "国药准字Z41021736",
+                        "manufacturer": "河南省康华药业股份有限公司",
+                        "validTime": "2023-02-28",
+                        "packUnit": "盒",
+                        "splitUnit": 1,
+                        "basePackNum": 1,
+                        "midPackNum": 1,
+                        "itemPackNum": 300,
+                        "businessScopeId": 87,
+                        "businessScopeName": "中成药",
+                        "commonName": "河南康华柴胡注射液",
+                        "upcCode": "",
+                        "offsetNum": 1,
+                        "saleDesc": "小包/1盒",
+                        "saleType": 0,
+                        "status": 1,
+                        "isSelf": false,
+                        "selfDrug": false,
+                        "isSuppliers": false,
+                        "isCodeMatch": false,
+                        "packViewList": [
+                            {
+                                "key": 1,
+                                "packText": "小包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 2,
+                                "packText": "中包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 3,
+                                "packText": "件装/300盒",
+                                "offset": 300
+                            }
+                        ],
+                        "drugId": 224310457957,
+                        "productChannel": 1,
+                        "isBargain": null
+                    },
+                    "skuItemVOS": [],
+                    "skuTypeVOS": [],
+                    "venderVO": {
+                        "venderType": null,
+                        "venderId": 10106564,
+                        "shopId": 952244,
+                        "venderName": "山东瑞辉药业有限公司",
+                        "logoUrl": "//img10.360buyimg.com/popshop//jfs/t1/14718/15/10658/8692/5c87b69eE1019821c/807741d51309ec6a.jpg",
+                        "shopUrl": "http://mall.jd.com/index-952244.html",
+                        "deliveryMoney": null,
+                        "limitDeliveryMoney": null,
+                        "onShelfSkuNum": null,
+                        "ddStatus": 2,
+                        "ddUrl": null,
+                        "relation": 1
+                    },
+                    "priceVO": {
+                        "showPrice": 0,
+                        "crossPrice": 6.72,
+                        "state": 2,
+                        "stateDesc": "未登录",
+                        "promotionType": null,
+                        "promotionId": null,
+                        "grossOfRate": null,
+                        "retailPrice": 6.72
+                    },
+                    "stockVO": {
+                        "stockNum": 100000
+                    },
+                    "restrictVO": null,
+                    "cartButtonVO": {
+                        "isAddCart": false,
+                        "errCode": 0,
+                        "errMsg": "Pin为空(未登录)",
+                        "canBuyNum": 0
+                    },
+                    "freightVOS": null,
+                    "couponVOS": null,
+                    "discountPriceVO": null,
+                    "factorySaleVO": null,
+                    "followVO": null,
+                    "promotionAdvertVO": null,
+                    "promiseVO": null,
+                    "tipsVO": {
+                        "notifyCode": 999
+                    },
+                    "isAddCart": false
+                },
+                {
+                    "invalidType": 1,
+                    "invalidText": "正常",
+                    "user": {
+                        "userType": 1
+                    },
+                    "skuInfoVO": {
+                        "skuId": 60337475499,
+                        "image": "//img30.360buyimg.com/img/jfs/t1/107095/25/12397/76681/5e48aecaEcef36d06/b18bac1c48f2a184.jpg",
+                        "images": [
+                            "//img14.360buyimg.com/img/jfs/t1/107095/25/12397/76681/5e48aecaEcef36d06/b18bac1c48f2a184.jpg"
+                        ],
+                        "skuName": "藿香正气水__10ml*10支 10ml*10支",
+                        "sale30": 28428,
+                        "catId1": 13720,
+                        "catName1": "药房经营",
+                        "catId2": 23498,
+                        "catName2": "中成药",
+                        "catId3": 23500,
+                        "catName3": "祛暑剂",
+                        "medicalSpec": "10ml*10支",
+                        "allowNum": "国药准字Z51020775",
+                        "manufacturer": "四川德元药业集团有限公司",
+                        "validTime": "2023-02-01",
+                        "packUnit": "盒",
+                        "splitUnit": 1,
+                        "basePackNum": 1,
+                        "midPackNum": 1,
+                        "itemPackNum": 200,
+                        "businessScopeId": 86,
+                        "businessScopeName": "化学药制剂",
+                        "commonName": "藿香正气水",
+                        "upcCode": "",
+                        "offsetNum": 1,
+                        "saleDesc": "小包/1盒",
+                        "saleType": 0,
+                        "status": 1,
+                        "isSelf": false,
+                        "selfDrug": false,
+                        "isSuppliers": false,
+                        "isCodeMatch": false,
+                        "packViewList": [
+                            {
+                                "key": 1,
+                                "packText": "小包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 2,
+                                "packText": "中包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 3,
+                                "packText": "件装/200盒",
+                                "offset": 200
+                            }
+                        ],
+                        "drugId": 190310144497,
+                        "productChannel": 1,
+                        "isBargain": 0
+                    },
+                    "skuItemVOS": [],
+                    "skuTypeVOS": [],
+                    "venderVO": {
+                        "venderType": null,
+                        "venderId": 10252603,
+                        "shopId": 10112999,
+                        "venderName": "山西国邦药业有限公司",
+                        "logoUrl": "//img11.360buyimg.com/popshop//jfs/t1/90267/21/788/7357/5db3c47fEb7102d55/2bdda2b2c50ce032.png",
+                        "shopUrl": "http://mall.jd.com/index-10112999.html",
+                        "deliveryMoney": null,
+                        "limitDeliveryMoney": null,
+                        "onShelfSkuNum": null,
+                        "ddStatus": 2,
+                        "ddUrl": null,
+                        "relation": 1
+                    },
+                    "priceVO": {
+                        "showPrice": 0,
+                        "crossPrice": 2.20,
+                        "state": 2,
+                        "stateDesc": "未登录",
+                        "promotionType": null,
+                        "promotionId": null,
+                        "grossOfRate": null,
+                        "retailPrice": 2.20
+                    },
+                    "stockVO": {
+                        "stockNum": 100000
+                    },
+                    "restrictVO": null,
+                    "cartButtonVO": {
+                        "isAddCart": false,
+                        "errCode": 0,
+                        "errMsg": "Pin为空(未登录)",
+                        "canBuyNum": 0
+                    },
+                    "freightVOS": null,
+                    "couponVOS": null,
+                    "discountPriceVO": null,
+                    "factorySaleVO": null,
+                    "followVO": null,
+                    "promotionAdvertVO": null,
+                    "promiseVO": null,
+                    "tipsVO": {
+                        "notifyCode": 999
+                    },
+                    "isAddCart": false
+                },
+                {
+                    "invalidType": 1,
+                    "invalidText": "正常",
+                    "user": {
+                        "userType": 1
+                    },
+                    "skuInfoVO": {
+                        "skuId": 34068008201,
+                        "image": "//img10.360buyimg.com/img/jfs/t1/7826/14/7056/87283/5be2b674E182392d4/fb54511b51e788a5.jpg",
+                        "images": [
+                            "//img20.360buyimg.com/img/jfs/t1/7826/14/7056/87283/5be2b674E182392d4/fb54511b51e788a5.jpg",
+                            "//img11.360buyimg.com/img/jfs/t1/9995/19/6314/85672/5be2b674Ee6d2e4f6/736e37785c83a0ef.jpg",
+                            "//img14.360buyimg.com/img/jfs/t1/9368/6/7045/47577/5be2b674Ee1876f4b/2782beef638eb292.jpg"
+                        ],
+                        "skuName": "葡萄糖酸锌口服液 10ml*12支",
+                        "sale30": 26937,
+                        "catId1": 13720,
+                        "catName1": "药房经营",
+                        "catId2": 23366,
+                        "catName2": "西药",
+                        "catId3": 23370,
+                        "catName3": "营养治疗药",
+                        "medicalSpec": "10ml*12支",
+                        "allowNum": "国药准字H20173013",
+                        "manufacturer": "哈药集团三精制药有限公司",
+                        "validTime": "2022-11-30",
+                        "packUnit": "盒",
+                        "splitUnit": 1,
+                        "basePackNum": 1,
+                        "midPackNum": 1,
+                        "itemPackNum": 80,
+                        "businessScopeId": 86,
+                        "businessScopeName": "化学药制剂",
+                        "commonName": "葡萄糖酸锌口服溶液",
+                        "upcCode": "",
+                        "offsetNum": 1,
+                        "saleDesc": "小包/1盒",
+                        "saleType": 0,
+                        "status": 1,
+                        "isSelf": false,
+                        "selfDrug": false,
+                        "isSuppliers": false,
+                        "isCodeMatch": false,
+                        "packViewList": [
+                            {
+                                "key": 1,
+                                "packText": "小包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 2,
+                                "packText": "中包/1盒",
+                                "offset": 1
+                            },
+                            {
+                                "key": 3,
+                                "packText": "件装/80盒",
+                                "offset": 80
+                            }
+                        ],
+                        "drugId": 219610344263,
+                        "productChannel": 1,
+                        "isBargain": null
+                    },
+                    "skuItemVOS": [],
+                    "skuTypeVOS": [],
+                    "venderVO": {
+                        "venderType": null,
+                        "venderId": 10000844,
+                        "shopId": 834640,
+                        "venderName": "合肥曼迪新药业有限责任公司",
+                        "logoUrl": "//img20.360buyimg.com/popshop//jfs/t1/30909/25/4627/2928/5c7f228fE133479c7/7a4e1c307bb1ca70.jpg",
+                        "shopUrl": "http://mall.jd.com/index-834640.html",
+                        "deliveryMoney": null,
+                        "limitDeliveryMoney": null,
+                        "onShelfSkuNum": null,
+                        "ddStatus": 2,
+                        "ddUrl": null,
+                        "relation": 1
+                    },
+                    "priceVO": {
+                        "showPrice": 0,
+                        "crossPrice": 37.80,
+                        "state": 2,
+                        "stateDesc": "未登录",
+                        "promotionType": null,
+                        "promotionId": null,
+                        "grossOfRate": null,
+                        "retailPrice": 37.80
+                    },
+                    "stockVO": {
+                        "stockNum": 100000
+                    },
+                    "restrictVO": null,
+                    "cartButtonVO": {
+                        "isAddCart": false,
+                        "errCode": 0,
+                        "errMsg": "Pin为空(未登录)",
+                        "canBuyNum": 0
+                    },
+                    "freightVOS": null,
+                    "couponVOS": null,
+                    "discountPriceVO": null,
+                    "factorySaleVO": null,
+                    "followVO": null,
+                    "promotionAdvertVO": null,
+                    "promiseVO": null,
+                    "tipsVO": {
+                        "notifyCode": 999
+                    },
+                    "isAddCart": false
+                }
+            ],
+            "startIndex": 0,
+            "nextPage": 2,
+            "firstPage": true,
+            "lastPage": false,
+            "previousPage": 1,
+            "endIndex": 20
+        }
+    },
+    "reqUUid": "96197.36986.16250388594945396"
+}
