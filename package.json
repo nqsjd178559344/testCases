@@ -1,7 +1,9 @@
 {
   "dependencies": {
     "chai": "^4.3.4",
+    "lodash": "^4.17.21",
     "lodash.clonedeep": "^4.5.0",
-    "mocha": "^9.0.1"
+    "lodash.groupby": "^4.6.0",
+    "mocha": "^9.0.3"
   }
 }
